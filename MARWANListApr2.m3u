@@ -2,7 +2,7 @@
  #EXTM3U
 #EXTINF:-1,MARWAN list 
 rtmp://marwanwardy.com
-#EXTINF:-1,updated 2/4/15
+#EXTINF:-1,updated 5/4/15
  
 http://edge22.magictvbox.com/live/rotana_cinema_plus/index.m3u8 
 
@@ -17,6 +17,12 @@ http://edge20.magictvbox.com/live/rotana_khalijiah/index.m3u8
 #EXTINF:0, dubai one
 
 http://edge22.magictvbox.com/live/dubai_one/index.m3u8
+
+EXTINF:-1,ANN News 
+rtmp://ns8.indexforce.com/ann/ann 
+#EXTINF:-1,BBC Arabia 
+
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
 
 #EXTINF:0, cbc_sofra
@@ -200,6 +206,24 @@ http://edge21.magictvbox.com/live/al_maghribia/index.m3u8
 
 http://edge20.magictvbox.com/live/al_iraqiya/index.m3u8
 
+#EXTINF:-1,Quran TV 
+rtmp://208.75.224.165:1935/map-alquraan/map-alquraan.stream 
+
+#EXTINF:-1,Quran tv 
+
+http://46.245.160.224/mekke/mekke/gmswf.m3u8
+#EXTINF:-1,MBC2 
+rtmp://$OPT:rtmp-raw=rtmp://live-f01.vustream.net:1935/live playpath=livestream swfUrl= live=1 pageUrl= 
+
+#EXTINF:-1,MBC_BOLLYWOOD 
+rtmp://$OPT:rtmp-raw=rtmp://63.237.48.3:1935/live playpath=MBC_BOLLYWOOD swfUrl= live=1 pageUrl= 
+
+#EXTINF:-1,MBC_ACTION 
+rtmp://$OPT:rtmp-raw=rtmp://63.237.48.3:1935/live playpath=MBC_ACTION swfUrl= live=1 pageUrl= 
+
+#EXTINF:-1,MBC MAX 
+
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 
 #EXTINF:0, al_sharqiya_news 
 
