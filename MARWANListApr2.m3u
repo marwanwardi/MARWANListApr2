@@ -2,332 +2,159 @@
  #EXTM3U
 #EXTINF:-1,MARWAN list 
 rtmp://marwanwardy.com
-#EXTINF:-1,updated 5/4/15
- 
-http://edge22.magictvbox.com/live/rotana_cinema_plus/index.m3u8 
+#EXTINF:-1,updated 7/4/15
 
-#EXTINF:0, rotana_cinema
+#EXTINF:0,AlResala
 
-http://edge22.magictvbox.com/live/rotana_cinema_plus/index.m3u8
+http://arabic.dynns.com:1935/arabic/AlResala/chunklist_w1909997661.m3u8?wmsAuthSign
 
-#EXTINF:0, rotana_khalijiah 
+#EXTINF:0,Iqra
 
-http://edge20.magictvbox.com/live/rotana_khalijiah/index.m3u8
+http://arabic.dynns.com:1935/arabic/Iqra/chunklist_w803463768.m3u8?wmsAuthSign
 
+#EXTINF:0,Dream1
 
-EXTINF:0, ANN News 
-rtmp://ns8.indexforce.com/ann/ann 
+http://arabic.dynns.com:1935/arabic/Dream1/chunklist_w1810603854.m3u8?wmsAuthSign
 
-#EXTINF:-1,BBC Arabia 
+#EXTINF:0,Dream2
 
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+http://arabic.dynns.com:1935/arabic/Dream2/chunklist_w1601507477.m3u8?wmsAuthSign
 
+#EXTINF:0,Nilecinema
 
-#EXTINF:0, cbc_sofra
+http://arabic.dynns.com:1935/arabic/Nilecinema/chunklist_w889933210.m3u8?wmsAuthSign
 
-http://edge21.magictvbox.com/live/cbc_sofra/index.m3u8
-#EXTINF:0, set_el_bait
+#EXTINF:0,Nile Drama
 
-http://edge21.magictvbox.com/live/set_el_bait/index.m3u8
+http://arabic.dynns.com:1935/arabic/NileDrama/chunklist_w1824846371.m3u8?wmsAuthSign
 
-#EXTINF:0, France 24
-http://edge20.magictvbox.com/live/france_24_arabic/index.m3u8
-#EXTINF:0, RT
-http://edge23.magictvbox.com/live/russia_today/index.m3u8
+#EXTINF:0,Cairo Drama
 
-#EXTINF:0, time cinema 1 
+http://arabic.dynns.com:1935/arabic/CairoDrama/chunklist_w2138252081.m3u8?wmsAuthSign
 
-http://edge23.magictvbox.com/live/time_cinema_i/index.m3u8
+#EXTINF:0,MBC Masr2
 
-#EXTINF:0, time cinema 2 
+http://arabic.dynns.com:1935/arabic/MBCMasr2/chunklist_w1101746287.m3u8?wmsAuthSign
 
-http://edge22.magictvbox.com/live/time_cinema_2/index.m3u8
+#EXTINF:0,ZeeA lwen
 
-#EXTINF:0, time drama 
+http://arabic.dynns.com:1935/arabic/ZeeAlwen/chunklist_w2104553105.m3u8?wmsAuthSign
 
-http://edge21.magictvbox.com/live/time_drama/index.m3u8
+#EXTINF:0,Zee Aflem
 
-#EXTINF:0, time turki 
+http://arabic.dynns.com:1935/arabic/ZeeAflem/chunklist_w2136840971.m3u8?wmsAuthSign
 
-http://edge23.magictvbox.com/live/time_turki/index.m3u8
+#EXTINF:0,Rotana Cinema
 
-#EXTINF:0, time film
+http://arabic.dynns.com:1935/arabic/RotanaCinema/chunklist_w587583793.m3u8?wmsAuthSign
 
-http://edge21.magictvbox.com/live/time_film/index.m3u8
+#EXTINF:0,Cima
 
-#EXTINF:0, time taxi 
+http://arabic.dynns.com:1935/arabic/Cima/chunklist_w533092796.m3u8?wmsAuthSign
 
-http://edge22.magictvbox.com/live/time_taxi/index.m3u8
 
-#EXTINF:0, time action 
+#EXTINF:0,AbuDhabi ALOula
 
-http://edge22.magictvbox.com/live/time_action/index.m3u8
+http://arabic.dynns.com:1935/arabic/AbuDhabiALOula/chunklist_w1473477043.m3u8?wmsAuthSign
 
-#EXTINF:0, panorama film
+#EXTINF:0,AbuDhabi Drama
 
-http://edge21.magictvbox.com/live/panorama_film/index.m3u8
+http://arabic.dynns.com:1935/arabic/AbuDhabiDrama/chunklist_w656649567.m3u8?wmsAuthSign
 
-#EXTINF:0, panorama cinema 
+#EXTINF:0,AbuDhabi Sport1
 
-http://edge22.magictvbox.com/live/panorama_cinema/index.m3u8
+http://arabic.dynns.com:1935/arabic/AbuDhabiSport1/chunklist_w655645253.m3u8?wmsAuthSign
 
-#EXTINF:0, time cinema 2 +
+#EXTINF:0,AbuDhabi Sport2
 
-http://edge20.magictvbox.com/live/time_cinema_2_plus/index.m3u8
+http://arabic.dynns.com:1935/arabic/AbuDhabiSport2/chunklist_w1695250300.m3u8?wmsAuthSign
 
-#EXTINF:0, panorama drama 1
+#EXTINF:0,ALArabia
 
-http://edge20.magictvbox.com/live/panorama_drama_i/index.m3u8
+http://arabic.dynns.com:1935/arabic/ALArabia/chunklist_w1911567358.m3u8?wmsAuthSign
 
-#EXTINF:0, panorama drama 2 
+#EXTINF:0,AlArabia Hadath
 
-http://edge23.magictvbox.com/live/panorama_drama_ii/index.m3u8
+http://arabic.dynns.com:1935/arabic/AlArabiaHadath/chunklist_w1650152304.m3u8?wmsAuthSign
 
-#EXTINF:0, panorama_comedy
+#EXTINF:0,AlJadeed
 
-http://edge23.magictvbox.com/live/panorama_comedy/index.m3u8
-#EXTINF:0, rotana_massriya +
+http://arabic.dynns.com:1935/arabic/AlJadeed/chunklist_w1466691586.m3u8?wmsAuthSign
 
-http://edge21.magictvbox.com/live/rotana_massriya_plus/index.m3u8
-#EXTINF:0, rotana cinema +
+#EXTINF:0,Aljazeera
 
-http://edge22.magictvbox.com/live/rotana_cinema_plus/index.m3u8
+http://arabic.dynns.com:1935/arabic/Aljazeera/chunklist_w900334084.m3u8?wmsAuthSign
+#EXTINF:0,Noon Tv
 
-#EXTINF:0, rotana_khalijiah +
+http://arabic.dynns.com:1935/arabic/NoonTv/chunklist_w678994695.m3u8?wmsAuthSign
+#EXTINF:0,GIM Aljazeera Children
 
-http://edge22.magictvbox.com/live/rotana_khalijiah_plus/index.m3u8
+http://arabic.dynns.com:1935/arabic/AljazeeraChildren/chunklist_w25800676.m3u8?wmsAuthSign
 
-#EXTINF:0, ontv live
+#EXTINF:0,AljazeeraDocumentaire
 
-http://edge21.magictvbox.com/live/ontv_live/index.m3u8
+http://arabic.dynns.com:1935/arabic/AljazeeraDocumentaire/chunklist_w788462918.m3u8?wmsAuthSign
 
-#EXTINF:0, ontv +
+#EXTINF:0,AlJazeera English
 
-http://edge20.magictvbox.com/live/ontv_plus/index.m3u8
+http://arabic.dynns.com:1935/arabic/AlJazeeraEnglish/chunklist_w1063767894.m3u8?wmsAuthSign
 
-#EXTINF:0, Al mehwar+
+#EXTINF:0,AlMagharibiaDZ
 
-http://edge22.magictvbox.com/live/el_mehwar_plus/index.m3u8
+http://arabic.dynns.com:1935/arabic/AlMagharibiaDZ/chunklist_w644304499.m3u8?wmsAuthSign
 
-#EXTINF:0, cbc +
 
-http://edge23.magictvbox.com/live/cbc_plus/index.m3u8
-#EXTINF:0, cbc extra_plus 
+http://arabic.dynns.com:1935/arabic/CairoDrama/chunklist_w2138252081.m3u8?wmsAuthSign
 
-http://edge22.magictvbox.com/live/cbc_extra_plus/index.m3u8
+#EXTINF:0,AlNahar Drama
 
-#EXTINF:0, cbc sofra +
+http://arabic.dynns.com:1935/arabic/AlNaharDrama/chunklist_w965675030.m3u8?wmsAuthSign
 
-http://edge21.magictvbox.com/live/cbc_sofra_plus/index.m3u8
+#EXTINF:0,Nile Sport
 
-#EXTINF:0, cbc drama +
+http://arabic.dynns.com:1935/arabic/NileSport/chunklist_w499764461.m3u8?wmsAuthSign
 
-http://edge21.magictvbox.com/live/cbc_drama_plus/index.m3u8
+#EXTINF:0,AlNahar Tv
 
-#EXTINF:0, top movies
+http://arabic.dynns.com:1935/arabic/AlNaharTv/chunklist_w48561773.m3u8?wmsAuthSign
 
-http://edge21.magictvbox.com/live/top_movies/index.m3u8
+#EXTINF:0,Moga Comedy
 
-#EXTINF:0, dubai one
+http://arabic.dynns.com:1935/arabic/MogaComedy/chunklist_w864823302.m3u8?wmsAuthSign
 
-http://edge22.magictvbox.com/live/dubai_one/index.m3u8
 
-#EXTINF:0, Sama_dubai 
 
-http://edge23.magictvbox.com/live/sama_dubai/index.m3u8
+#EXTINF:0,Future TV
 
-#EXTINF:0, Al qithara
+http://arabic.dynns.com:1935/arabic/FutureTV/chunklist_w1193088721.m3u8?wmsAuthSign
 
-http://edge20.magictvbox.com/live/al_qithara_tv/index.m3u8
+#EXTINF:0,AlMayadeen
 
-#EXTINF:0, Arabic woman
+http://arabic.dynns.com:1935/arabic/AlMayadeen/chunklist_w117830596.m3u8?wmsAuthSign
 
-http://edge20.magictvbox.com/live/arab_woman/index.m3u8
+#EXTINF:0,Noor Dubai
 
-#EXTINF:0, Nessma
+http://arabic.dynns.com:1935/arabic/NoorDubai/chunklist_w66851562.m3u8?wmsAuthSign
 
-http://edge21.magictvbox.com/live/nessma/index.m3u8
 
-#EXTINF:0, Al sumariya 
 
-http://edge20.magictvbox.com/live/al_sumariya/index.m3u8
+#EXTINF:0,Qatar Tv
 
-#EXTINF:0, Al sharqiya 
+http://arabic.dynns.com:1935/arabic/QatarTv/chunklist_w116621782.m3u8?wmsAuthSign
 
-http://edge21.magictvbox.com/live/al_sharqiya/index.m3u8
+#EXTINF:0,Rabia TV
 
-#EXTINF:0, Al sharqiya news 
+http://arabic.dynns.com:1935/arabic/RabiaTV/chunklist_w1191288925.m3u8?wmsAuthSign
 
-http://edge23.magictvbox.com/live/al_sharqiya_news/index.m3u8
-
-#EXTINF:0, kidzinia 
-
-http://edge22.magictvbox.com/live/kidzinia/index.m3u8
-
-#EXTINF:0, cyc_tv
-
-http://edge23.magictvbox.com/live/cyc_tv/index.m3u8
-
-#EXTINF:0, al_karma_usa
-
-http://edge21.magictvbox.com/live/al_karma_usa/index.m3u8
-
-#EXTINF:0, al_karma_middle_east 
-
-http://edge21.magictvbox.com/live/al_karma_middle_east/index.m3u8
-
-#EXTINF:0, time_quran 
-
-http://edge20.magictvbox.com/live/time_quran/index.m3u8
-
-#EXTINF:0, quran_tv 
-
-http://edge21.magictvbox.com/live/quran_tv/index.m3u8
-
-#EXTINF:0, amjad 
-
-http://edge21.magictvbox.com/live/amjad_tv/index.m3u8
-
-#EXTINF:0, Al Majd
-
-http://edge22.magictvbox.com/live/al_naeem_tv/index.m3u8
-
-
-#EXTINF:0, aghapy_tv_middle_east
-
-http://edge23.magictvbox.com/live/aghapy_tv_middle_east/index.m3u8
-
-#EXTINF:0, Magribia
-http://edge21.magictvbox.com/live/al_maghribia/index.m3u8
-
-#EXTINF:0, al iraqiya 
-
-http://edge20.magictvbox.com/live/al_iraqiya/index.m3u8
-
-#EXTINF:-1,Quran TV 
-rtmp://208.75.224.165:1935/map-alquraan/map-alquraan.stream 
-
-#EXTINF:-1,Quran tv 
-
-http://46.245.160.224/mekke/mekke/gmswf.m3u8
-#EXTINF:-1,MBC2 
-rtmp://$OPT:rtmp-raw=rtmp://live-f01.vustream.net:1935/live playpath=livestream swfUrl= live=1 pageUrl= 
-
-#EXTINF:-1,MBC_BOLLYWOOD 
-rtmp://$OPT:rtmp-raw=rtmp://63.237.48.3:1935/live playpath=MBC_BOLLYWOOD swfUrl= live=1 pageUrl= 
-
-#EXTINF:-1,MBC_ACTION 
-rtmp://$OPT:rtmp-raw=rtmp://63.237.48.3:1935/live playpath=MBC_ACTION swfUrl= live=1 pageUrl= 
-
-#EXTINF:-1,MBC MAX 
-
-http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
-
-#EXTINF:0, al_sharqiya_news 
-
-http://edge23.magictvbox.com/live/al_sharqiya_news/index.m3u8
-
-#EXTINF:0, bbc_arabic
-
-http://edge22.magictvbox.com/live/bbc_arabic/index.m3u8
-#EXTINF:0, wesal 
-http://edge20.magictvbox.com/live/wesal/index.m3u8
-
-#EXTINF:-1,cairo cinema 
-
-rtmp://162.212.176.107/cairo_cinema//globaltv-cairo_cinema.stream 
-
-#EXTINF:-1,cairo drama 
-
-rtmp://162.212.176.107/cairo_drama//globaltv-cairo_drama.stream 
-
-#EXTINF:-1, Al Nahar Youm 
-
-rtmp://50.7.180.18/elnahar_tv/nahar_youm.stream 
-
-#EXTINF:-1, Al-Nahar Drama
-	
-rtmp://50.7.180.18/elnahar_tv/nahar_drama.stream 
-
-#EXTINF:-1, Al Nahar Sport
-	
-rtmp://50.7.180.18:1935/elnahar_tv/nahar_sport.stream 
-
-
-#EXTM3U
-
-#EXTINF:-1,Al Nahar Youm 
-
-rtmp://50.7.180.18/elnahar_tv/nahar_youm.stream 
-
-#EXTINF:-1,Al-Nahar Drama	
-rtmp://50.7.180.18/elnahar_tv/nahar_drama.stream 
-
-#EXTINF:-1,Al Nahar Sport	
-rtmp://50.7.180.18:1935/elnahar_tv/nahar_sport.stream
-
-#EXTINF:-1,Arabica Music 
-
-http://37.48.80.48:1935/arabicalive/arabicatv/chunklist_w525000.m3u8
-
-#EXTINF:-1,Iqraatv 
-
-http://fl1.viastreaming.net:1935/iqraatv/livestream/HasBahCa.m3u8
-
-#EXTINF:-1,Safa 
-
-http://50.7.131.42:1935/safa/smil:safa-smil.smil/chunklist_w1889871104_b1875968.m3u8
-
-#EXTINF:-1,Alwatan 
+#EXTINF:0,watan tv
 
 http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvhigh.m3u8
 
-#EXTINF:-1,Alwatan-Plus 
+#EXTINF:0,watan tv plus
 
 http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8
 
-#EXTINF:-1,Alwatan-Ghanawi 
+#EXTINF:0,watan ghanawi
 
-http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanghanawihigh.m3u8
+http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanghanawihigh.m3u8 
 
-#EXTINF:-1,Funoon-TV 
-
-http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
-
-#EXTINF:-1, Aghanina 
-
-http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
-
-#EXTINF:-1, MBC2
-
-http://63.237.48.3/ios/MBC2/MBC2.m3u8
-
-#EXTINF:-1, mBC_ACTION
-
-http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8
-
-#EXTINF:-1, MBC_MAX
-
-http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
-
-#EXTINF:-1, MBC_BOLLYWOOD
-
-http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-
-#EXTINF:-1, MBC_4
-
-http://63.237.48.3/ios/MBC_4/MBC_4.m3u8
-
-#EXTINF:-1,dubai
-http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8
-#EXTINF:-1, Albaghdadia
-http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/master.m3u8
-#EXTINF:-1, Baghdad
-http://streamer1.hamuraabi.com:1935/baghdad/live/chunklist_w289420470.m3u8
-#EXTINF:-1, Dijla
-http://stream.joinvisions.net:1935/dij/dij/playlist.m3u8
-#EXTINF:-1, Al hadaf
-http://arabic.dynns.com:1935/arabic/AlHaddafTVDZ/chunklist_w323644997.m3u8?wmsAuthSign
-#EXTINF:-1, BeurTv
-http://arabic.dynns.com:1935/arabic/BeurTvDZ/chunklist_w1043121990.m3u8?wmsAuthSign
-#EXTINF:-1, BeurTv
