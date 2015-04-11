@@ -5,62 +5,101 @@ rtmp://marwanwardy.com
 #EXTINF:-1,updated 09/04/15
 rtmp://marwanwardy.com
 
-#EXTINF:0,AlResala
+#EXTINF:-1, Baraem Europe
+http://46.59.28.215:4949/bynumber/10
+#EXTINF:0,Baraem HD
 
-http://arabic.dynns.com:1935/arabic/AlResala/chunklist_w1909997661.m3u8?wmsAuthSign
-
-#EXTINF:0,Iqra
-
-http://arabic.dynns.com:1935/arabic/Iqra/chunklist_w803463768.m3u8?wmsAuthSign
-
-#EXTINF:0,Dream1
-
-http://arabic.dynns.com:1935/arabic/Dream1/chunklist_w1810603854.m3u8?wmsAuthSign
-
-#EXTINF:0,Dream2
-
-http://arabic.dynns.com:1935/arabic/Dream2/chunklist_w1601507477.m3u8?wmsAuthSign
-
-#EXTINF:0,Nilecinema
+http://arabic.dynns.com:1935/arabic/Cima/chunklist_w533092796.m3u8?wmsAuthSign
+#EXTINF:0, Al Baghdadia
+http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
+#EXTINF:0, Sharqia news
 
 http://arabic.dynns.com:1935/arabic/Nilecinema/chunklist_w889933210.m3u8?wmsAuthSign
 
-#EXTINF:0,Nile Drama
+#EXTINF:0,AL Sharqiya
+rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+#EXTINF:0,Baghdad
+http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
+#EXTINF:0,FATAFIT
+http://212.179.77.42/live/livestream3/gmswf.m3u8
 
-http://arabic.dynns.com:1935/arabic/NileDrama/chunklist_w1824846371.m3u8?wmsAuthSign
+#EXTINF:-1,bein news
+rtmp://test.volkatv.net:1935/iptv/ch110?code=0000
 
-#EXTINF:0,Cairo Drama
+#EXTINF:-1,bein
+rtmp://test.volkatv.net:1935/iptv/ch400?code=0000
 
-http://arabic.dynns.com:1935/arabic/CairoDrama/chunklist_w2138252081.m3u8?wmsAuthSign
+#EXTINF:-1,ksa sport
+rtmp://test.volkatv.net:1935/iptv/ch747?code=0000
 
-#EXTINF:0,MBC Masr2
+#EXTINF:0, 1 Tunisia
+rtmp://test.volkatv.net:1935/iptv/ch1?code=0000
 
-http://arabic.dynns.com:1935/arabic/MBCMasr2/chunklist_w1101746287.m3u8?wmsAuthSign
+#EXTINF:0, 2 Tunisia
+rtmp://test.volkatv.net:1935/iptv/ch2?code=0000
 
-#EXTINF:0,ZeeA lwen
+#EXTINF:0, MBC
+rtmp://test.volkatv.net:1935/iptv/ch30?code=0000
 
-http://arabic.dynns.com:1935/arabic/ZeeAlwen/chunklist_w2104553105.m3u8?wmsAuthSign
+#EXTINF:0, MBC 2
+rtmp://test.volkatv.net:1935/iptv/ch31?code=0000
 
-#EXTINF:0,Zee Aflem
+#EXTINF:0, ANN
+rtmp://test.volkatv.net:1935/iptv/ch52?code=0000
 
-http://arabic.dynns.com:1935/arabic/ZeeAflem/chunklist_w2136840971.m3u8?wmsAuthSign
+#EXTINF:0,Al Arabiya
+rtmp://test.volkatv.net:1935/iptv/ch53?code=0000
 
-#EXTINF:0,Rotana Cinema
+#EXTINF:0, AL Majd
+rtmp://test.volkatv.net:1935/iptv/ch57?code=0000
 
-http://arabic.dynns.com:1935/arabic/RotanaCinema/chunklist_w587583793.m3u8?wmsAuthSign
+#EXTINF:0,AL manar
+rtmp://test.volkatv.net:1935/iptv/ch58?code=0000
+#EXTINF:-1,i24 News Arabia
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
 
-#EXTINF:0,Cima
+#EXTINF:0, Algerie
+rtmp://test.volkatv.net:1935/iptv/ch60?code=0000
 
-http://arabic.dynns.com:1935/arabic/Cima/chunklist_w533092796.m3u8?wmsAuthSign
+#EXTINF:0,Arabica
+rtmp://test.volkatv.net:1935/iptv/ch61?code=0000
 
+#EXTINF:0 ,BeIN Sport 1 FR
+http://185.56.30.123:8082/TV4016
 
-#EXTINF:0,AbuDhabi ALOula
+#EXTINF:0 ,BeIN Sport 2 FR
+http://185.56.30.123:8082/TV4017
 
-http://arabic.dynns.com:1935/arabic/AbuDhabiALOula/chunklist_w1473477043.m3u8?wmsAuthSign
+#EXTINF:0 ,Bein Sports 1
+http://185.56.30.123:8082/TV4001
 
-#EXTINF:0,AbuDhabi Drama
+#EXTINF:0 ,Bein Sports 2
+http://185.56.30.123:8082/TV4002
 
-http://arabic.dynns.com:1935/arabic/AbuDhabiDrama/chunklist_w656649567.m3u8?wmsAuthSign
+#EXTINF:0 ,Bein Sports 3
+http://185.56.30.123:8082/TV4003
+
+#EXTINF:0 ,Bein Sports 4
+http://185.56.30.123:8082/TV4004
+
+#EXTINF:0 ,Bein Sports 5
+http://185.56.30.123:8082/TV4005
+
+#EXTINF:0 ,Bein Sports 6
+http://185.56.30.123:8082/TV4006
+
+#EXTINF:0 ,Bein Sports 7
+http://185.56.30.123:8082/TV4007
+
+#EXTINF:0 ,Bein Sports 8
+http://185.56.30.123:8082/TV4008
+
+#EXTINF:0 ,Bein Sports 9
+http://185.56.30.123:8082/TV4009
+
+#EXTINF:0 ,Bein Sports 10
+http://185.56.30.123:8082/TV40010 
+
 
 #EXTINF:0,AbuDhabi Sport1
 
@@ -70,64 +109,20 @@ http://arabic.dynns.com:1935/arabic/AbuDhabiSport1/chunklist_w655645253.m3u8?wms
 
 http://arabic.dynns.com:1935/arabic/AbuDhabiSport2/chunklist_w1695250300.m3u8?wmsAuthSign
 
-#EXTINF:0,ALArabia
+#EXTINF:0,Fatafeat
 
 http://arabic.dynns.com:1935/arabic/ALArabia/chunklist_w1911567358.m3u8?wmsAuthSign
 
-#EXTINF:0,AlArabia Hadath
+#EXTINF:0,fonon
 
 http://arabic.dynns.com:1935/arabic/AlArabiaHadath/chunklist_w1650152304.m3u8?wmsAuthSign
 
-#EXTINF:0,AlJadeed
-
-http://arabic.dynns.com:1935/arabic/AlJadeed/chunklist_w1466691586.m3u8?wmsAuthSign
-
-#EXTINF:0,Aljazeera
-
-http://arabic.dynns.com:1935/arabic/Aljazeera/chunklist_w900334084.m3u8?wmsAuthSign
-#EXTINF:0,Noon Tv
+#EXTINF:0,I24 arabic
 
 http://arabic.dynns.com:1935/arabic/NoonTv/chunklist_w678994695.m3u8?wmsAuthSign
-#EXTINF:0,GIM Aljazeera Children
+#EXTINF:0,BBC arabic
 
 http://arabic.dynns.com:1935/arabic/AljazeeraChildren/chunklist_w25800676.m3u8?wmsAuthSign
-
-#EXTINF:0,AljazeeraDocumentaire
-
-http://arabic.dynns.com:1935/arabic/AljazeeraDocumentaire/chunklist_w788462918.m3u8?wmsAuthSign
-
-#EXTINF:0,AlJazeera English
-
-http://arabic.dynns.com:1935/arabic/AlJazeeraEnglish/chunklist_w1063767894.m3u8?wmsAuthSign
-
-#EXTINF:0,AlMagharibiaDZ
-
-http://arabic.dynns.com:1935/arabic/AlMagharibiaDZ/chunklist_w644304499.m3u8?wmsAuthSign
-
-
-http://arabic.dynns.com:1935/arabic/CairoDrama/chunklist_w2138252081.m3u8?wmsAuthSign
-
-#EXTINF:0,AlNahar Drama
-
-http://arabic.dynns.com:1935/arabic/AlNaharDrama/chunklist_w965675030.m3u8?wmsAuthSign
-
-#EXTINF:0,Nile Sport
-
-http://arabic.dynns.com:1935/arabic/NileSport/chunklist_w499764461.m3u8?wmsAuthSign
-
-#EXTINF:0,AlNahar Tv
-
-http://arabic.dynns.com:1935/arabic/AlNaharTv/chunklist_w48561773.m3u8?wmsAuthSign
-
-#EXTINF:0,Moga Comedy
-
-http://arabic.dynns.com:1935/arabic/MogaComedy/chunklist_w864823302.m3u8?wmsAuthSign
-
-
-
-#EXTINF:0,Future TV
-
-http://arabic.dynns.com:1935/arabic/FutureTV/chunklist_w1193088721.m3u8?wmsAuthSign
 
 #EXTINF:0,AlMayadeen
 
@@ -213,28 +208,12 @@ http://arabic.dynns.com:1935/arabic/DzairTV/chunklist_w2084990686.m3u8?wmsAuthSi
 #EXTINF:-1,BBC Arabia
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
-#EXTINF:-1,i24 News Arabia
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
-#EXTINF:-1,AlArabia
-http://arabic.dynns.com:1935/arabic/ALArabia/chunklist_w1911567358.m3u8?wmsAuthSign
-#EXTINF:-1,LBC SAT
-http://arabic.dynns.com:1935/arabic/LBCSAT/chunklist_w1279392262.m3u8?wmsAuthSign
-#EXTINF:-1,Moga Comedy
-http://arabic.dynns.com:1935/arabic/MogaComedy/chunklist_w864823302.m3u8?wmsAuthSign
 
 #EXTINF:-1,Funoon TV
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
-#EXTINF:0,FATAFIT
-http://212.179.77.42/live/livestream3/gmswf.m3u8
 
-#EXTINF:0,Baghdad
-http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
 
-#EXTINF:0, Al Baghdadia
-http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 
-#EXTINF:0,AL Sharqiya
-rtmp://ns8.indexforce.com/alsharqiyalive/mystream
 
-#EXTINF:-1, Baraem Europe
-http://46.59.28.215:4949/bynumber/10
+
+
