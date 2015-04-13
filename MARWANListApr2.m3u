@@ -7,6 +7,11 @@ https://www.youtube.com/watch?v=KT242UieqEI
 #EXTINF:-1, Baraem Europe
 http://46.59.28.215:4949/bynumber/10
 
+#EXTINF:-1, iraqia news
+
+http://212.7.205.5:1935/Iraqia/live/HasBahCa.m3u8
+#EXTINF:-1, iraqia sport
+http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
 #EXTINF:-1,KAS 
 http://137.135.64.32:1935/kas/kas/gmswf.m3u8
 
@@ -36,6 +41,10 @@ rtmp://test.volkatv.net:1935/iptv/ch1?code=0000
 
 #EXTINF:0, 2 Tunisia
 rtmp://test.volkatv.net:1935/iptv/ch2?code=0000
+
+#EXTINF:0, arabic
+http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
+
 #EXTINF:-1,MBC MAX 
 
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
@@ -43,6 +52,14 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1,MBC MAX 
 http://185.27.237.105:8082/TV0103
 
+#EXTINF:-1, Arabic
+http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/HasBahCa.m3u8
+
+#EXTINF:-1,MBC 2
+http://63.237.48.3/ios/MBC2/MBC2.m3u8
+
+#EXTINF:-1,MBC 2
+rtmp://ns8.indexforce.com/ann/ann
 #EXTINF:0, ANN
 rtmp://test.volkatv.net:1935/iptv/ch52?code=0000
 
@@ -83,8 +100,8 @@ http://arabic.dynns.com:1935/arabic/AlMayadeen/chunklist_w117830596.m3u8?wmsAuth
 #EXTINF:0,Noor Dubai
 
 http://arabic.dynns.com:1935/arabic/NoorDubai/chunklist_w66851562.m3u8?wmsAuthSign
-
-
+#EXTINF:0,Dubai
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
 
 #EXTINF:0,Qatar Tv
 
@@ -143,24 +160,28 @@ http://arabic.dynns.com:1935/arabic/RotanaCinema/chunklist_w587583793.m3u8?wmsAu
 #EXTINF:-1,Samira Tv
 http://arabic.dynns.com:1935/arabic/SamiraTv/chunklist_w299559257.m3u8?wmsAuthSign
 
-#EXTINF:-1,AlHaddaf
-http://arabic.dynns.com:1935/arabic/AlHaddafTVDZ/chunklist_w323644997.m3u8?wmsAuthSign
+#EXTINF:-1,Al Rai
+http://94.127.209.149:8080/albadawiyah-800-hdsx/playlist.m3u8
 
-#EXTINF:-1,BeurTV
-http://arabic.dynns.com:1935/arabic/BeurTvDZ/chunklist_w1043121990.m3u8?wmsAuthSign
+#EXTINF:-1,Al jazera Doc
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 
-#EXTINF:-1,Dzair TV
-http://arabic.dynns.com:1935/arabic/DzairTV/chunklist_w2084990686.m3u8?wmsAuthSign
+#EXTINF:-1, Al jazera
+rtmp://50.7.180.18/elnahar_tv/nahar_youm.stream
 
 #EXTINF:-1,BBC Arabia
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
+#EXTINF:-1,BBC Arabia
+http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 
 #EXTINF:-1,Funoon TV
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
 
+#EXTINF:-1,Funoon TV
+http://www.elahmad.com/tv/Webtv/Arabian.htm
 
-
-
+#EXTINF:-1, Saudi sport
+http://intigral_live-lh.akamaihd.net/i/DPS2KCCAHLXSHB010514_1@135296/index_1200_av-p.m3u8?sd=10&rebase=on
 
 
