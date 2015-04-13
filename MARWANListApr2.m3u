@@ -1,23 +1,43 @@
 
  #EXTM3U
-#EXTINF:-1,MARWAN Arabic list 
-rtmp://marwanwardy.com
-#EXTINF:-1,updated 10/04/15
-rtmp://marwanwardy.com
+
+#EXTINF:-1,updated 12/04/15
+https://www.youtube.com/watch?v=KT242UieqEI
 
 #EXTINF:-1, Baraem Europe
 http://46.59.28.215:4949/bynumber/10
-#EXTINF:0,Baraem HD
 
-http://arabic.dynns.com:1935/arabic/Cima/chunklist_w533092796.m3u8?wmsAuthSign
+#EXTINF:0, Al jazera
+https://www.youtube.com/watch?v=n5M3EbG9ncU
+
+#EXTINF:0, CBC
+https://www.youtube.com/watch?v=ISJQ0_4PKAo&feature=player_detailpage
+
+#EXTINF:0, CBC Sofra
+https://www.youtube.com/watch?v=oW1Pj-M16vk
+
+#EXTINF:0, CBC Extra
+https://www.youtube.com/watch?v=vX-2o15uZrY
+
+#EXTINF:0, CBC Drama
+https://www.youtube.com/watch?v=KT242UieqEI
+
+#EXTINF:-1,KAS 
+http://137.135.64.32:1935/kas/kas/gmswf.m3u8
+
+#EXTINF:-1,KTV 2 
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
+
+#EXTINF:-1,KTV AL ARABI 
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
+
 #EXTINF:0, Al Baghdadia
 http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
-#EXTINF:0, Sharqia news
 
-http://arabic.dynns.com:1935/arabic/Nilecinema/chunklist_w889933210.m3u8?wmsAuthSign
 
 #EXTINF:0,AL Sharqiya
 rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+
 #EXTINF:0,Baghdad
 http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
 #EXTINF:0,FATAFIT
@@ -112,14 +132,9 @@ http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatant
 
 http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanghanawihigh.m3u8 
 
-#EXTINF:-1,MBC 1
-http://arabic.dynns.com:1935/arabic/MBC1/chunklist_w718238064.m3u8?wmsAuthSign
-
 #EXTINF:-1,MBC 2
 http://63.237.48.3/ios/MBC2/MBC2.m3u8
 
-#EXTINF:-1,MBC 3
-rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream
  
 #EXTINF:-1,MBC 3 
 rtmp://web.iptv-planet.com:1937/live2/Hi_mbc3
