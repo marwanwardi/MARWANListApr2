@@ -1,7 +1,7 @@
 
  #EXTM3U
 
-#EXTINF:-1,updated 12/04/15
+#EXTINF:-1,updated 13/04/15
 https://www.youtube.com/watch?v=KT242UieqEI
 
 #EXTINF:-1, Baraem Europe
@@ -36,37 +36,26 @@ rtmp://test.volkatv.net:1935/iptv/ch1?code=0000
 
 #EXTINF:0, 2 Tunisia
 rtmp://test.volkatv.net:1935/iptv/ch2?code=0000
+#EXTINF:-1,MBC MAX 
 
-#EXTINF:0, MBC
-rtmp://test.volkatv.net:1935/iptv/ch30?code=0000
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 
-#EXTINF:0, MBC 2
-rtmp://test.volkatv.net:1935/iptv/ch31?code=0000
+#EXTINF:-1,MBC MAX 
+http://185.27.237.105:8082/TV0103
 
 #EXTINF:0, ANN
 rtmp://test.volkatv.net:1935/iptv/ch52?code=0000
 
-#EXTINF:0,Al Arabiya
-rtmp://test.volkatv.net:1935/iptv/ch53?code=0000
+#EXTINF:-1,2M 
+
+http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 
 #EXTINF:0, AL Majd
 rtmp://test.volkatv.net:1935/iptv/ch57?code=0000
 
-#EXTINF:0,AL manar
-rtmp://test.volkatv.net:1935/iptv/ch58?code=0000
-#EXTINF:-1,i24 News Arabia
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
-
 #EXTINF:0, Algerie
 rtmp://test.volkatv.net:1935/iptv/ch60?code=0000
 
-#EXTINF:0,Arabica
-rtmp://test.volkatv.net:1935/iptv/ch61?code=0000
-
-
-#EXTINF:0,AbuDhabi Sport1
-
-http://arabic.dynns.com:1935/arabic/AbuDhabiSport1/chunklist_w655645253.m3u8?wmsAuthSign
 
 #EXTINF:0,AbuDhabi Sport2
 
