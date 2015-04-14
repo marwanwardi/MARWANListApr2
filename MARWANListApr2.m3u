@@ -69,49 +69,9 @@ rtmp://test.volkatv.net:1935/iptv/ch52?code=0000
 
 http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 
-#EXTINF:0, AL Majd
-rtmp://test.volkatv.net:1935/iptv/ch57?code=0000
 
-#EXTINF:0, Algerie
-rtmp://test.volkatv.net:1935/iptv/ch60?code=0000
-
-
-#EXTINF:0,AbuDhabi Sport2
-
-http://arabic.dynns.com:1935/arabic/AbuDhabiSport2/chunklist_w1695250300.m3u8?wmsAuthSign
-
-#EXTINF:0,Fatafeat
-
-http://arabic.dynns.com:1935/arabic/ALArabia/chunklist_w1911567358.m3u8?wmsAuthSign
-
-#EXTINF:0,fonon
-
-http://arabic.dynns.com:1935/arabic/AlArabiaHadath/chunklist_w1650152304.m3u8?wmsAuthSign
-
-#EXTINF:0,I24 arabic
-
-http://arabic.dynns.com:1935/arabic/NoonTv/chunklist_w678994695.m3u8?wmsAuthSign
-#EXTINF:0,BBC arabic
-
-http://arabic.dynns.com:1935/arabic/AljazeeraChildren/chunklist_w25800676.m3u8?wmsAuthSign
-
-#EXTINF:0,AlMayadeen
-
-http://arabic.dynns.com:1935/arabic/AlMayadeen/chunklist_w117830596.m3u8?wmsAuthSign
-
-#EXTINF:0,Noor Dubai
-
-http://arabic.dynns.com:1935/arabic/NoorDubai/chunklist_w66851562.m3u8?wmsAuthSign
-#EXTINF:0,Dubai
+#EXTINF:0, Aljazeera
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
-
-#EXTINF:0,Qatar Tv
-
-http://arabic.dynns.com:1935/arabic/QatarTv/chunklist_w116621782.m3u8?wmsAuthSign
-
-#EXTINF:0,Rabia TV
-
-http://arabic.dynns.com:1935/arabic/RabiaTV/chunklist_w1191288925.m3u8?wmsAuthSign
 
 #EXTINF:0,watan tv
 
@@ -145,25 +105,12 @@ rtmp://167.114.101.234:1935/live?idu=rezanr_83566078920&idn=3160815557/mbc_4
 #EXTINF:-1,mbc max
 rtmp://162.212.176.107:1935/mbc_max/globaltv-mbc_max.stream
 
-#EXTINF:-1,MBC Masr 2
-http://arabic.dynns.com:1935/arabic/MBCMasr2/chunklist_w1101746287.m3u8?wmsAuthSign
-
-#EXTINF:-1,mbc max
-rtmp://web.iptv-planet.com:1937/live2/Hi_mbcmax
-
-#EXTINF:-1,MBC ACTION
-rtmp://web.iptv-planet.com:1937/live2/Hi_mbcaction 
-
-#EXTINF: 0,MBC DRAMA
-
-http://91.109.20.227:8080/TV6035
-#EXTINF:-1,Rotana Cinema
-http://arabic.dynns.com:1935/arabic/RotanaCinema/chunklist_w587583793.m3u8?wmsAuthSign
-#EXTINF:-1,Samira Tv
-http://arabic.dynns.com:1935/arabic/SamiraTv/chunklist_w299559257.m3u8?wmsAuthSign
 
 #EXTINF:-1,Al Rai
 http://94.127.209.149:8080/albadawiyah-800-hdsx/playlist.m3u8
+
+#EXTINF:-1,Al hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
 #EXTINF:-1,Al jazera Doc
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
