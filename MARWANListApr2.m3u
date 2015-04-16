@@ -1,7 +1,7 @@
 
  #EXTM3U
 
-#EXTINF:-1,updated 14/04/15
+#EXTINF:-1,updated 15/04/15
 http://46.59.28.215:4949/bynumber/10
 
 #EXTINF:-1, Baraem Europe
@@ -14,9 +14,13 @@ rtmp://stream.joinvisions.net/dij//dij
 http://212.7.205.5:1935/Iraqia/live/HasBahCa.m3u8
 #EXTINF:-1, iraqia sport
 http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
-#EXTINF:-1,KAS 
-http://137.135.64.32:1935/kas/kas/gmswf.m3u8
 
+#EXTINF:-1,Dubai TV 
+
+http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/BratuMarian.m3u8
+#EXTINF:-1,Sama Dubai 
+
+http://cdnedvrsamadubai.endavomedia.com/smil:dmilivesamadubaihls.smil/BratuMarian.m3u8
 #EXTINF:-1,KTV 2 
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
 
@@ -26,6 +30,9 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
 #EXTINF:0, Al Baghdadia
 http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 
+#EXTINF:-1,Russia Alyaum 
+
+http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
 
 #EXTINF:0,AL Sharqiya
 rtmp://ns8.indexforce.com/alsharqiyalive/mystream
@@ -132,6 +139,8 @@ http://www.elahmad.com/tv/Webtv/Arabian.htm
 
 #EXTINF:-1, Saudi sport
 http://intigral_live-lh.akamaihd.net/i/DPS2KCCAHLXSHB010514_1@135296/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,KAS 
+http://137.135.64.32:1935/kas/kas/gmswf.m3u8
 
 #EXTINF:-1, CARTOON NETWORK 
 
