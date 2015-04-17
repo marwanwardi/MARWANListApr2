@@ -169,12 +169,16 @@ http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 #EXTINF:-1,Russia Alyaum 
 
 http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
-#EXTINF:-1,ANN
-rtmp://ns8.indexforce.com/ann/ann
 
 #EXTINF:0,ALArabia
 
 http://arabic.dynns.com:1935/arabic/ALArabia/chunklist_w1911567358.m3u8?wmsAuthSign
+
+#EXTINF:-1, arabya alhadath
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+
+#EXTINF:-1,  skynews
+rtmp://skynews.fc.llnwd.net/skynews/_definst_?gmswf=1098965046/skynewsarabia
 
 #EXTINF:0, Aljazeera
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
@@ -185,7 +189,7 @@ http://arabic.dynns.com:1935/arabic/Aljazeera/chunklist_w900334084.m3u8?wmsAuthS
 #EXTINF:-1,BBC Arabia
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
-#EXTINF:-1,BBC Arabia
+#EXTINF:-1,Baghdadya
 http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 
 
@@ -200,8 +204,10 @@ http://intigral_live-lh.akamaihd.net/i/DPS2KCCAHLXSHB010514_1@135296/index_1200_
 #EXTINF:-1,KAS 
 http://137.135.64.32:1935/kas/kas/gmswf.m3u8
 
-#EXTINF:-1,Arabic 
+#EXTINF:-1,Al Badawia
 http://94.127.209.149:8080/albadawiyah-800-hdsx/playlist.m3u8
+
+
 
 #EXTINF:-1, CARTOON NETWORK 
 
