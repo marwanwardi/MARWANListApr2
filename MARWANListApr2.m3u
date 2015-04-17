@@ -143,6 +143,10 @@ http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
 #EXTINF:-1,ANN
 rtmp://ns8.indexforce.com/ann/ann
 
+#EXTINF:0,ALArabia
+
+http://arabic.dynns.com:1935/arabic/ALArabia/chunklist_w1911567358.m3u8?wmsAuthSign
+
 #EXTINF:0, Aljazeera
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
 
