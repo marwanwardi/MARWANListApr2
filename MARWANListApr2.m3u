@@ -1,7 +1,7 @@
 
  #EXTM3U
 
-#EXTINF:-1,updated 17/04/15
+#EXTINF:-1,updated 20/04/15
 http://46.59.28.215:4949/bynumber/10
 
 #EXTINF:-1,facebook.com/marwan.wardy.94
@@ -29,61 +29,50 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
 #EXTINF:-1, Dijla
 rtmp://stream.joinvisions.net/dij//dij
 
-#EXTINF:-1,Alsharqiah 
+#EXTINF:-1,AL Sharqiya
 rtmp://ns8.indexforce.com/home/mystream
+
+#EXTINF:0,AL Sharqiya News
+rtmp://ns8.indexforce.com/alsharqiyalive/mystream
 
 #EXTINF:0, Al Baghdadia
 http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 
-#EXTINF:0,AL Sharqiya
-rtmp://ns8.indexforce.com/alsharqiyalive/mystream
-
-#EXTINF:-1,Sharqyaa
-http://185.56.30.123:8082/TV6006
 
 #EXTINF:0,Baghdad
 http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
 
-#EXTINF:0,FATAFIT
+#EXTINF:0,FATAFEAT
 http://212.179.77.42/live/livestream3/gmswf.m3u8
 
 #EXTINF:-1,FATFEET
 http://212.179.77.42/live/livestream3/gmswf.m3u8
 
-#EXTINF:-1,Rotana Music
+#EXTINF:-1,Rotana Music ( NOT WORKING)
 http://185.56.30.123:8082/TV6012
 
 #EXTINF:0,MBC Masr2
 
 http://arabic.dynns.com:1935/arabic/MBCMasr2/chunklist_w1101746287.m3u8?wmsAuthSign
 
-#EXTINF:0,Rotana Cinema
-
-http://arabic.dynns.com:1935/arabic/RotanaCinema/chunklist_w587583793.m3u8?wmsAuthSign
-
 #EXTINF:-1,Rotana Cinema
 http://185.56.30.123:8082/TV6014
 
-#EXTINF:-1,Rotana Cinema
-http://185.56.30.123:8082/TV6013
 
-#EXTINF:-1,Rotana classic
+#EXTINF:-1,Rotana classic ( NOT WORKING) 
 http://185.56.30.123:8082/TV6015
 
 #EXTINF:-1,Melody classic 
 http://185.56.30.123:8082/TV6007
 
-#EXTINF:-1,Rotana masr
+#EXTINF:-1,Rotana masr ( NOT WORKING) 
 http://185.56.30.123:8082/TV6018
 
-#EXTINF:-1,MBC MAX 
+#EXTINF:-1,MBC MAX ( NOT WORKING) 
 
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 
-#EXTINF:-1, MBC MAX 
-http://185.27.237.105:8082/TV0103
-
-EXTINF:-1,MBC BOLLYWOOD
+EXTINF:-1, MBC BOLLYWOOD
 http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
 #EXTINF:-1,MBC 2
@@ -105,13 +94,11 @@ rtmp://167.114.101.234:1935/live?idu=rezanr_83566078920&idn=3160815557/mbc_4
 #EXTINF:-1,MBC Action
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 
-#EXTINF:-1,MBC ACTION
-http://185.56.30.123:8082/TV6006
 
-#EXTINF:-1,Fox
+#EXTINF:-1,Fox ( NOT WORKING) 
 http://185.56.30.123:8082/TV6010
 
-#EXTINF:-1,Fox movies
+#EXTINF:-1,Fox movies ( NOT WORKING) 
 http://185.56.30.123:8082/TV6011
 
 #EXTINF:-1, Dubai tv
@@ -121,9 +108,6 @@ http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/HasBahCa.m3u8
 
 http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 
-#EXTINF:-1,Otv
-
-http://185.56.30.123:8082/TV6008
 
 #EXTINF:-1,Qatar
 rtmp://AgendaStreamerx1.qna.org.qa/qtv//qtv
@@ -140,7 +124,7 @@ http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatant
 
 http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanghanawihigh.m3u8 
 
-#EXTINF:-1, Syria Drama
+#EXTINF:-1, Syria Drama ( NOT WORKING) 
 http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
 
 #EXTINF:-1,Funoon TV
