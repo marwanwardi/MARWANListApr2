@@ -1,11 +1,11 @@
 
  #EXTM3U
 
-#EXTINF:-1,[COLOR blue]updated 27/04/15[COLOR blue]
+#EXTINF:-1,]updated 27/04/15
 
 http://46.59.28.215:4949/bynumber/10
 
-#EXTINF:-1,[COLOR yellow]facebook.com/marwan.wardy.94 [COLOR yellow]
+#EXTINF:-1,facebook.com/marwan.wardy.94
 http://arabic.dynns.com:1935/arabic/NoonTv/chunklist_w678994695.m3u8?wmsAuthSign
 
 #EXTINF:-1, Baraem Europe
