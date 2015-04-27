@@ -1,10 +1,11 @@
 
  #EXTM3U
 
-#EXTINF:-1,updated 25/04/15
+#EXTINF:-1,#EXTINF:-1,[COLOR blue]updated 27/04/15[COLOR blue]
+
 http://46.59.28.215:4949/bynumber/10
 
-#EXTINF:-1,facebook.com/marwan.wardy.94
+#EXTINF:-1,#EXTINF:-1,[COLOR yellow]facebook.com/marwan.wardy.94 [COLOR yellow]
 http://arabic.dynns.com:1935/arabic/NoonTv/chunklist_w678994695.m3u8?wmsAuthSign
 
 #EXTINF:-1, Baraem Europe
@@ -30,9 +31,10 @@ rtmp://162.212.176.107:1935/national_geo_ad/globaltv-national_geo_ad.stream
 #EXTINF:-1,KTV 2 
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
 
-#EXTINF:-1 , TRT Arabic |
+#EXTINF:-1 , TRT Arabic
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 
+#EXTINF:-1,                                                  
 
 #EXTINF:-1,AGHANI Tv
 http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
@@ -52,14 +54,24 @@ rtmp://ns8.indexforce.com/alsharqiyalive/mystream
 #EXTINF:0, Al Baghdadia
 http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 
+#EXTINF:-1,Albaghdadia 2
+http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
+
+#EXTINF:0, al-fayhaa
+mmsh://77.67.107.89/al-fayhaa
 
 #EXTINF:0,Baghdad
 http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
+
 
 #EXTINF:0,FATAFEAT
 http://212.179.77.42/live/livestream3/gmswf.m3u8
 
 
+
+
+
+#EXTINF:-1,                                                  
 
 
 #EXTINF:-1,Rotana Music
@@ -69,13 +81,11 @@ http://185.56.30.123:8082/TV6012
 #EXTINF:-1,Rotana Music
 rtmp://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream
 
-#EXTINF:0,MBC Masr2 (not working)
-
-http://arabic.dynns.com:1935/arabic/MBCMasr2/chunklist_w1101746287.m3u8?wmsAuthSign
+#EXTINF:0,MBC Masr
+rtmp://162.212.176.107/mbc_masr?v=3160814918/globaltv-mbc_masr.stream
 
 #EXTINF:-1,Rotana Cinema
 http://185.56.30.123:8082/TV6014
-
 
 #EXTINF:-1,Rotana classic 
 http://185.56.30.123:8082/TV6015
@@ -85,12 +95,18 @@ http://185.56.30.123:8082/TV6007
 
 
 
+
+#EXTINF:-1,                                                  
+
 #EXTINF:-1,MBC MAX
 
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 
 EXTINF:-1, MBC BOLLYWOOD
 http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+
+#EXTINF:-1 DUBAI ONE
+http://91.109.20.227:8080/TV6025
 
 #EXTINF:-1,MBC 2
 http://63.237.48.3/ios/MBC2/MBC2.m3u8
@@ -101,8 +117,6 @@ http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 
 #EXTINF:-1,MBC 4
 http://63.237.48.3/ios/MBC_4/MBC_4.m3u8
-
-
 
 
 #EXTINF:-1,MBC Action
@@ -117,9 +131,24 @@ http://185.56.30.123:8082/TV6010
 
 rtmp://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream
 
+#EXTINF:-1,   
+
+                                               
+#EXTINF:-1,ontv
+
+rtmp://50.7.180.18/elONTV?gmswf=1591696272/ontvlive_profile2.stream
+
+#EXTINF:-1,Jordan
+rtmp://64.251.14.168/jorlive/jrtv
 
 #EXTINF:-1,Nesma
 http://185.56.30.123:8082/TV6011
+
+#EXTINF:-1,tunisia_national_1
+rtmp://162.212.176.107:1935/tunisia_national_1/globaltv-tunisia_national_1.stream
+
+#EXTINF:-1, Hanibal
+rtmp://162.212.176.107:1935/hanibal/globaltv-hanibal.stream
 
 #EXTINF:-1, Dubai tv
 http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/HasBahCa.m3u8
@@ -133,9 +162,10 @@ http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dd
 
 
 #EXTINF:-1,Qatar
-rtmp://AgendaStreamerx1.qna.org.qa/qtv//qtv
+rtmp://AgendaStreamerx1.qna.org.qa/qtv/qtv
 
 #EXTINF:0,watan tv
+
 
 http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvhigh.m3u8
 
@@ -156,6 +186,9 @@ http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanf
 #EXTINF:-1,LBC Europe
 
 http://162.212.176.107:1935/lbc_europe/globaltv-lbc_europe.stream/gmswf.m3u8
+
+#EXTINF:-1,LBC Europe
+rtmp://162.212.176.107/lbc_europe/globaltv-lbc_europe.stream
 
 #EXTINF:-1,Al hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
@@ -181,6 +214,9 @@ http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
 
 http://arabic.dynns.com:1935/arabic/ALArabia/chunklist_w1911567358.m3u8?wmsAuthSign
 
+#EXTINF:-1, Alarabiya
+rtmp://167.114.101.234:1935/live?idu=lola123_77021940960/alarabiya
+
 #EXTINF:-1, arabya alhadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 
@@ -196,8 +232,8 @@ http://arabic.dynns.com:1935/arabic/Aljazeera/chunklist_w900334084.m3u8?wmsAuthS
 #EXTINF:-1,BBC Arabia
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
-#EXTINF:-1,Baghdadya
-http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
+#EXTINF:-1,al_maghribia news
+rtmp://162.212.176.107:1935/al_maghribia/globaltv-al_maghribia.stream
 
 
 #EXTINF:-1, iraqia sport
