@@ -11,11 +11,14 @@ http://arabic.dynns.com:1935/arabic/NoonTv/chunklist_w678994695.m3u8?wmsAuthSign
 #EXTINF:-1,mbc3
 http://5.189.144.71:8080/startimes/big-iptv/42.ch
 
-#EXTINF:-1, Baraem Europe
+#EXTINF:-1, Baraem 
 rtmp://78.100.40.195/brm/?gmswf=1268884471/brm
 
 #EXTINF:-1, Baraem 
 rtmp://AgendaStreamer2.qna.org.qa/brm/brm
+
+#EXTINF:-1, Baraem Europe
+http://46.59.28.215:4949/bynumber/10
 
 
 #EXTINF:-1,Dubai TV 
@@ -37,11 +40,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 
 #EXTINF:-1,                                                  
 
-#EXTINF:-1,AGHANI Tv
-http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
-
-#EXTINF:-1,melody
-rtmp://162.212.176.107:1935/melody/globaltv-melody.stream
 
 #EXTINF:-1, Dijla
 rtmp://stream.joinvisions.net/dij//dij
@@ -64,7 +62,7 @@ mmsh://77.67.107.89/al-fayhaa
 #EXTINF:0,Baghdad
 http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
 
-
+#EXTINF:-1,                                      
 #EXTINF:0,FATAFEAT
 http://212.179.77.42/live/livestream3/gmswf.m3u8
 
@@ -73,6 +71,12 @@ http://212.179.77.42/live/livestream3/gmswf.m3u8
 
 
 #EXTINF:-1,                                                  
+
+#EXTINF:-1,AGHANI Tv
+http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
+
+#EXTINF:-1,melody
+rtmp://162.212.176.107:1935/melody/globaltv-melody.stream
 
 
 #EXTINF:-1,Rotana Music
@@ -86,10 +90,8 @@ rtmp://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream
 rtmp://162.212.176.107/mbc_masr?v=3160814918/globaltv-mbc_masr.stream
 
 #EXTINF:-1,Rotana Cinema
-http://185.56.30.123:8082/TV6014
+http://185.56.30.123:8082/TV6013
 
-#EXTINF:-1,Rotana classic 
-http://185.56.30.123:8082/TV6015
 
 #EXTINF:-1,Melody classic 
 http://185.56.30.123:8082/TV6007
@@ -111,7 +113,7 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 EXTINF:-1, MBC BOLLYWOOD
 http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
-#EXTINF:-1 DUBAI ONE
+#EXTINF:-1 DUBAI ONE (not working now)
 http://91.109.20.227:8080/TV6025
 
 #EXTINF:-1,mbc
@@ -131,6 +133,8 @@ http://63.237.48.3/ios/MBC_4/MBC_4.m3u8
 #EXTINF:-1,MBC Action
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 
+#EXTINF:-1,dubai one
+http://5.189.144.71:8080/startimes/big-iptv/27.ch
 
 #EXTINF:-1,Fox 
 http://185.56.30.123:8082/TV6010
@@ -139,6 +143,9 @@ http://185.56.30.123:8082/TV6010
 #EXTINF:-1,Fox movies 
 
 rtmp://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream
+
+#EXTINF:-1,Fox movies 
+http://185.56.30.123:8082/TV6011
 
 #EXTINF:-1,Moga_Comedy
 http://5.189.144.71:8080/startimes/big-iptv/33.ch
@@ -153,8 +160,8 @@ rtmp://50.7.180.18/elONTV?gmswf=1591696272/ontvlive_profile2.stream
 #EXTINF:-1,Jordan
 rtmp://64.251.14.168/jorlive/jrtv
 
-#EXTINF:-1,Nesma
-http://185.56.30.123:8082/TV6011
+#EXTINF:-1,nessma
+http://5.189.144.71:8080/startimes/big-iptv/39.ch
 
 #EXTINF:-1,tunisia_national_1
 rtmp://162.212.176.107:1935/tunisia_national_1/globaltv-tunisia_national_1.stream
@@ -165,39 +172,14 @@ rtmp://162.212.176.107:1935/hanibal/globaltv-hanibal.stream
 #EXTINF:-1, Dubai tv
 http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/HasBahCa.m3u8
 
-#EXTINF:-1,Alresala
-http://185.56.30.123:8082/TV6018
 
 #EXTINF:-1,2M 
-
 http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 
 
 #EXTINF:-1,Qatar
 rtmp://AgendaStreamerx1.qna.org.qa/qtv/qtv
 
-#EXTINF:0,watan tv
-
-
-http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvhigh.m3u8
-
-#EXTINF:0,watan tv plus
-
-http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8
-
-#EXTINF:0,watan ghanawi
-
-http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanghanawihigh.m3u8 
-
-#EXTINF:-1, Syria Drama ( NOT WORKING) 
-http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
-
-#EXTINF:-1,Funoon TV
-http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
-
-#EXTINF:-1,LBC Europe
-
-http://162.212.176.107:1935/lbc_europe/globaltv-lbc_europe.stream/gmswf.m3u8
 
 #EXTINF:-1,LBC Europe
 rtmp://162.212.176.107/lbc_europe/globaltv-lbc_europe.stream
@@ -210,10 +192,6 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
 
 #EXTINF:-1,Al jazera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-
-#EXTINF:-1, iraqia news
-
-http://212.7.205.5:1935/Iraqia/live/HasBahCa.m3u8
 
 #EXTINF:-1,DW Arabia
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
