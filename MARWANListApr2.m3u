@@ -14,6 +14,13 @@ rtmp://AgendaStreamer2.qna.org.qa/brm/brm
 #EXTINF:-1,Baraem Europe
 http://46.59.28.215:4949/bynumber/10
 
+
+#EXTINF:-1, Jeem Kids
+rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
+ 
+#EXTINF:-1,el jazeera kids
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
+
 #EXTINF:-1,mbc3
 plugin://plugin.video.youtube/?action=play_video&videoid=8TuQ7pE99yk
 
