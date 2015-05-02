@@ -1,7 +1,7 @@
 
  #EXTM3U
 
-#EXTINF:-1, Updated 1/05/15
+#EXTINF:-1, Updated 02/05/15
 
 http://46.59.28.215:4949/bynumber/10
 
@@ -32,8 +32,7 @@ http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/chunklist_w517203350
 #EXTINF:-1,Noor Dubai TV 
 http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w157951105_b1200000.m3u8
 
-#EXTINF:-1,nat geo Ad hd
-rtmp://162.212.176.107/national_geo_ad//globaltv-national_geo_ad.stream
+
 
 #EXTINF:-1,KTV 2 
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
@@ -91,7 +90,7 @@ rtmp://str1.ddns.me/iptv/ch190?code=090271059211803
 
 #EXTINF:-1,                                       
 
-#EXTINF:0,MBC Masr
+
 rtmp://162.212.176.107/mbc_masr?v=3160814918/globaltv-mbc_masr.stream
 
 #EXTINF:-1,Rotana Cinema
@@ -104,13 +103,11 @@ rtmp://livestreaming5.onlinehorizons.net/NTNNileComedy/livestream
 #EXTINF:-1, abu dhabi drama
 rtmp://162.212.176.107/abu_dhabi_drama//globaltv-abu_dhabi_drama.stream
                                            
-#EXTINF:0,MBC Drama
-rtmp://str1.ddns.me/iptv/ch36?code=090271059211803
 
-#EXTINF:-1,mbc 1
+#EXTINF:-1,mbc1(not working sometimes)
 rtmp://167.114.101.234/live?idu=lola123_77021940960//mbc_1
 
-#EXTINF:0,MBC 1
+#EXTINF:0,MBC1(not working sometimes)
 rtmp://str1.ddns.me/iptv/ch30?code=090271059211803 
 
 #EXTINF:-1,                                       
@@ -138,8 +135,8 @@ http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1,dubai one
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/chunklist_w57614010_b1800000.m3u8
 
-#EXTINF:-1,Fox 
-plugin://plugin.video.youtube/?action=play_video&videoid=8TuQ7pE99yk
+#EXTINF:-1,Fox (not working)
+
 
 #EXTINF:-1,Fox movies 
 rtmp://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream
@@ -164,7 +161,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=24FTGjO3ck0
 #EXTINF:-1,CBC Drama
 plugin://plugin.video.youtube/?action=play_video&videoid=KT242UieqEI
 
-#EXTINF:0,Cairo Drama
+#EXTINF:0,Cairo Drama (not working sometimes)
 rtmp://str1.ddns.me/iptv/ch64?code=090271059211803 
 
 #EXTINF:-1,                                       
@@ -175,26 +172,9 @@ rtmp://50.7.180.18/elONTV?gmswf=1591696272/ontvlive_profile2.stream
 #EXTINF:-1,Jordan
 rtmp://64.251.14.168/jorlive/jrtv
 
-#EXTINF:-1,DW
-rtmp://cp135357.live.edgefcs.net/live//dw_fl_tv-arabia_h@s82211?auth=daEb7clavcNdBdOcybVcdcgaQcjcJdqcZcm-bvqVfU-jy-vHpukDzEuoDCr&aifp=001
-
-#EXTINF:-1,nessma
-http://5.189.144.71:8080/startimes/big-iptv/39.ch
-
 #EXTINF:-1,tunisia_national_1
 rtmp://162.212.176.107:1935/tunisia_national_1/globaltv-tunisia_national_1.stream
 
-#EXTINF:0,TNN TUNISIA
-rtmp://str1.ddns.me/iptv/ch10?code=090271059211803
-
-#EXTINF:0,Zaytouna tv 
-rtmp://str1.ddns.me/iptv/ch9?code=090271059211803
-
-#EXTINF:0,telvza tv 
-rtmp://str1.ddns.me/iptv/ch12?code=090271059211803
-
-#EXTINF:-1, Hanibal
-rtmp://162.212.176.107/hanibal//globaltv-hanibal.stream
 
 #EXTINF:-1,2M 
 http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
@@ -214,6 +194,9 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
 #EXTINF:-1,Al jazera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
+#EXTINF:-1,nat geo Ad hd
+rtmp://162.212.176.107/national_geo_ad//globaltv-national_geo_ad.stream
+
 #EXTINF:-1,DW Arabia
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 
@@ -228,13 +211,13 @@ http://arabic.dynns.com:1935/arabic/ALArabia/chunklist_w1911567358.m3u8?wmsAuthS
 #EXTINF:-1, Alarabiya
 rtmp://167.114.101.234:1935/live?idu=lola123_77021940960/alarabiya
 
-#EXTINF:-1, arabya alhadath
+#EXTINF:-1,Arabya alhadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 
-#EXTINF:-1,  Sky news
+#EXTINF:-1,Sky news
 rtmp://skynews.fc.llnwd.net/skynews/_definst_?gmswf=1269302204/skynewsarabia
 
-#EXTINF:0, Aljazeera
+#EXTINF:0,Aljazeera
 plugin://plugin.video.youtube/?action=play_video&videoid=n5M3EbG9ncU
 
 #EXTINF:-1, Aljazeera
@@ -242,15 +225,6 @@ rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_hi
 
 #EXTINF:-1,BBC Arabia
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-
-#EXTINF:-1,CNBC
-http://livestream-f.akamaihd.net/3102016_1914609_4350f351_1_678@132217?v=3.6.0&fp=WIN%2017,0,0,169&r=DJWWJ&g=EEEUZURFOKWO
-
-#EXTINF:-1,CNBC
-http://livestream-f.akamaihd.net/3102016_1914609_4350f351_1_678@132217?v=3.6.0&fp=WIN%2017,0,0,169&r=DOSYE&g=OONPZIPJHCDY
-
-#EXTINF:-1,al_maghribia news
-rtmp://162.212.176.107:1935/al_maghribia/globaltv-al_maghribia.stream
 
 
 #EXTINF:-1,            
