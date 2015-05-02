@@ -12,8 +12,7 @@ rtmp://78.100.40.195/brm/?gmswf=1268884471/brm
 rtmp://AgendaStreamer2.qna.org.qa/brm/brm
 
 #EXTINF:-1,Baraem Europe
-http://46.59.28.215:4949/bynumber/10
-
+plugin://plugin.video.youtube/?action=play_video&videoid=8TuQ7pE99yk
 
 #EXTINF:-1, Jeem Kids
 rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
