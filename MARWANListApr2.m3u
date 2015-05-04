@@ -82,8 +82,8 @@ rtmp://162.212.176.107:1935/melody/globaltv-melody.stream
 #EXTINF:-1,Rotana Music
 rtmp://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream
 
-#EXTINF:0,Rotana Music
-rtmp://str1.ddns.me/iptv/ch43?code=090271059211803
+#EXTINF:-1,Rotana Music
+http://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream/HasBahCa.m3u8
 
 #EXTINF:0,Rotana Clip
 rtmp://str1.ddns.me/iptv/ch190?code=090271059211803
@@ -95,6 +95,9 @@ rtmp://162.212.176.107/mbc_masr?v=3160814918/globaltv-mbc_masr.stream
 
 #EXTINF:-1,Rotana Cinema
 rtmp://162.212.176.107/rotana_cinema//globaltv-rotana_cinema.stream
+
+#EXTINF:-1,Rotana Cinema
+http://162.212.176.107:1935/rotana_cinema/globaltv-rotana_cinema.stream/HasBahCa.m3u8
 
 #EXTINF:-1,Nile comedy
 rtmp://livestreaming5.onlinehorizons.net/NTNNileComedy/livestream
@@ -146,6 +149,9 @@ rtmp://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream
 #EXTINF:-1,Moga_Comedy
 rtmp://162.212.176.107/moga_comedy?v=3315749764//globaltv-moga_comedy.stream
 
+#EXTINF:-1,Funoon TV
+http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
+
 #EXTINF:-1,Alnahar Drama
 rtmp://50.7.180.18/elnahar_tv/nahar_dramaprofile2.stream
 
@@ -165,9 +171,25 @@ plugin://plugin.video.youtube/?action=play_video&videoid=KT242UieqEI
 rtmp://str1.ddns.me/iptv/ch64?code=090271059211803 
 
 #EXTINF:-1,                                       
-                                  
+                 
+
+#EXTINF:-1,Al WATAN
+http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvmed.m3u8
+
+#EXTINF:-1,Al WATAN PLUS
+http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplusmed.m3u8
+
+#EXTINF:-1,Royal EDHAK
+http://94.127.209.149:8080/edhakx/playlist.m3u8
+                 
 #EXTINF:-1,ontv
 rtmp://50.7.180.18/elONTV?gmswf=1591696272/ontvlive_profile2.stream
+
+#EXTINF:-1,Al Shorouk Tv
+http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
+
+#EXTINF:-1, AlGeria 3
+http://159.224.32.114:1313/udp/238.0.16.23:1234
 
 #EXTINF:-1,Jordan
 rtmp://64.251.14.168/jorlive/jrtv
@@ -199,6 +221,9 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 #EXTINF:-1,nat geo Ad hd
 rtmp://162.212.176.107/national_geo_ad//globaltv-national_geo_ad.stream
 
+#EXTINF:-1,Royal Secret
+http://94.127.209.149:8080/secretsx/playlist.m3u8
+
 #EXTINF:-1,DW Arabia
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 
@@ -227,6 +252,9 @@ rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_hi
 
 #EXTINF:-1,BBC Arabia
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+
+#EXTINF:-1, Al-Hurra Iraq
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
 
 #EXTINF:-1,            
