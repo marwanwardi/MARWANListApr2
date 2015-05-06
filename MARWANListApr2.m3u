@@ -198,7 +198,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=3Th1Z5PLtgE
 
 
 
-
+#EXTINF:0,Libya TV
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_,264,528,828,.m3u8
 
 #EXTINF:-1,KTV 2 
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
@@ -298,6 +299,9 @@ http://intigral_live-lh.akamaihd.net/i/DPS3KCCNJNXNSR300415_1@301567/index_1200_
 
 #EXTINF:-1,MBC pro 2 sport
 http://intigral_live-lh.akamaihd.net/i/DPS3SPLSHBXORB260415_1@301567/index_1200_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,MBC SPORT HD 3
+http://intigral_live-lh.akamaihd.net/i/DPS3SPLSHOXTWN220315_1@301567/index_1200_av-b.m3u8
 
 
 
