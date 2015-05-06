@@ -20,6 +20,9 @@ rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
 #EXTINF:-1,el jazeera kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
 
+#EXTINF:-1,Ajyal
+rtmp://162.212.176.107/ajyal?v=1269304399/globaltv-ajyal.stream
+
 #EXTINF:-1,mbc3
 plugin://plugin.video.youtube/?action=play_video&videoid=8TuQ7pE99yk
 
@@ -90,6 +93,9 @@ rtmp://162.212.176.107/mbc_masr?v=3160814918/globaltv-mbc_masr.stream
 #EXTINF:-1,Rotana Cinema
 rtmp://162.212.176.107/rotana_cinema//globaltv-rotana_cinema.stream
 
+#EXTINF:-1,Rotana Classic
+rtmp://162.212.176.107/rotana_classic?v=1269304399/globaltv-rotana_classic.stream
+
 #EXTINF:-1,Rotana Cinema
 http://162.212.176.107:1935/rotana_cinema/globaltv-rotana_cinema.stream/HasBahCa.m3u8
 
@@ -142,6 +148,9 @@ http://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream/HasBahCa.m
 rtmp://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream
 
 
+#EXTINF:-1,Mbc masr
+rtmp://162.212.176.107/mbc_masr?v=1269304399/globaltv-mbc_masr.stream
+
 #EXTINF:-1,Moga Comedy
 rtmp://162.212.176.107/moga_comedy?v=3315749764//globaltv-moga_comedy.stream
 
@@ -172,6 +181,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=jI3sR82er8I
 #EXTINF:-1, Albalad 2
 plugin://plugin.video.youtube/?action=play_video&videoid=e8JjEZd7a90
 
+#EXTINF:-1, Syria Drama
+rtmp://82.137.248.21/Drama?gmswf=1269304399/DramaLive3
 
 
 
@@ -190,13 +201,23 @@ rtmp://50.7.180.18/elONTV?gmswf=1591696272/ontvlive_profile2.stream
 #EXTINF:-1,Saudi 1
 plugin://plugin.video.youtube/?action=play_video&videoid=3RSqptk01PM
 
+#EXTINF:-1,Saudi 2
+rtmp://babflashlivefs.fplive.net/babflash3live-live?v=1269304399/stream2
+
+#EXTINF:-1,Saudi news
+rtmp://babflashlivefs.fplive.net/babflashlive-live?v=1269304399/stream2
+
 #EXTINF:-1,Mekka Quraan
 plugin://plugin.video.youtube/?action=play_video&videoid=W-Rkhi6FxhE
 
 #EXTINF:-1,Sunna
 plugin://plugin.video.youtube/?action=play_video&videoid=3Th1Z5PLtgE
 
+#EXTINF:-1,Mekka Quraan
+http://46.245.160.224/mekke/mekke/chunklist_w2004504864.m3u8?v=1269304399
 
+#EXTINF:-1,Mekka
+rtmp://streamer11.elementssys.com//mecca
 
 #EXTINF:0,Libya TV
 http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_,264,528,828,.m3u8
@@ -284,6 +305,9 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
 #EXTINF:-1,            
                   
+#EXTINF:-1, Dubai sport
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_w1247760086_b1200000.m3u8
+
 #EXTINF:-1, iraqia sport
 http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
 
