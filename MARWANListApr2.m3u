@@ -135,14 +135,14 @@ rtmp://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream
 
 #EXTINF:-1,                                       
 
-#EXTINF:-1,cairo cinema
+#EXTINF:-1,Cairo_cinema
 http://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream/HasBahCa.m3u
 
 #EXTINF:-1,cairo cinema
 rtmp://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream
 
 
-#EXTINF:-1,Moga_Comedy
+#EXTINF:-1,Moga Comedy
 rtmp://162.212.176.107/moga_comedy?v=3315749764//globaltv-moga_comedy.stream
 
 #EXTINF:-1,Funoon TV
@@ -163,8 +163,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=24FTGjO3ck0
 #EXTINF:-1,CBC Drama
 plugin://plugin.video.youtube/?action=play_video&videoid=KT242UieqEI
 
-#EXTINF:0,Cairo Drama (not working sometimes)
-rtmp://str1.ddns.me/iptv/ch64?code=090271059211803 
 
 #EXTINF:-1,                                       
                  
