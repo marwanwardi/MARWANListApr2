@@ -189,7 +189,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=e8JjEZd7a90
 #EXTINF:-1, Syria Drama
 rtmp://82.137.248.21/Drama?gmswf=1269304399/DramaLive3
 
-
+#EXTINF:-1, dream 1 
+rtmp://162.212.176.107:1935/dream_1/globaltv-dream_1.stream
 
 #EXTINF:-1,                                       
                  
