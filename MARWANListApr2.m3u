@@ -11,7 +11,7 @@ rtmp://78.100.40.195/brm/?gmswf=1268884471/brm
 #EXTINF:-1,Baraem 
 rtmp://AgendaStreamer2.qna.org.qa/brm/brm
 
-#EXTINF:-1,Baraem Europe (working now)
+#EXTINF:-1,Baraem Europe(working now)
 http://46.59.28.215:4949/bynumber/10
 
 #EXTINF:-1,Jeem Kids
