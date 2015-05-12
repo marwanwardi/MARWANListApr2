@@ -242,14 +242,24 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:-1,Al Shorouk Tv
 http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
 
-#EXTINF:-1, AlGeria 3
-http://159.224.32.114:1313/udp/238.0.16.23:1234
 
 #EXTINF:-1,Jordan
 rtmp://64.251.14.168/jorlive/jrtv
 
 #EXTINF:-1,tunisia_national_1
 rtmp://162.212.176.107:1935/tunisia_national_1/globaltv-tunisia_national_1.stream
+
+#EXTINF:-1,tunisia watanya
+rtmp://162.212.176.107/tunisia_national_1?v=2921251366/globaltv-tunisia_national_1.stream
+
+#EXTINF:-1,tunisia watanya 2
+rtmp://162.212.176.107/tunisia_national_2?v=2921251366/globaltv-tunisia_national_2.stream
+
+#EXTINF:-1, Nessma 
+rtmp://162.212.176.107/nessma?v=2921251366/globaltv-nessma.stream
+
+#EXTINF:-1, Hanabaal
+rtmp://162.212.176.107/hanibal?v=2921251366/globaltv-hanibal.stream
 
 #EXTINF:-1,Maan
 http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
