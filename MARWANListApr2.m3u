@@ -351,3 +351,8 @@ http://intigral_live-lh.akamaihd.net/i/DPS3SPLSHOXTWN220315_1@301567/index_1200_
 
 rtmp://livestreaming5.onlinehorizons.net/elmehwar/livestream
 
+
+#EXTINF:-1,MBC 3
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc3 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc3&width=600&height=400 
+
+
