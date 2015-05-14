@@ -213,7 +213,7 @@ rtmp://82.137.248.21/Drama?gmswf=1269304399/DramaLive3
 rtmp://sama-tv.net/live/samatv
 
 #EXTINF:-1, Orient tv
-rtmp://173.192.180.122/live//live3
+rtmp://173.192.180.122/live/live3
 
 #EXTINF:-1, dream 1 
 rtmp://162.212.176.107:1935/dream_1/globaltv-dream_1.stream
@@ -309,7 +309,7 @@ https://svs.itworkscdn.net/nour7satlive/livestream/chunklist_w263014800.m3u8
 #EXTINF:-1,Nour sat Alshabab
 https://svs.itworkscdn.net/nour3satlive/livestream/chunklist_w1981215788.m3u8
 
-#EXTINF:-1,Al hurra
+#EXTINF:-1,Al Hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
 #EXTINF:-1,KTV AL ARABI 
@@ -318,7 +318,7 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
 #EXTINF:-1,Al jazera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
-#EXTINF:-1,nat geo Ad hd
+#EXTINF:-1,Nat geo Ad hd
 rtmp://162.212.176.107/national_geo_ad//globaltv-national_geo_ad.stream
 
 #EXTINF:-1,Royal Secret
