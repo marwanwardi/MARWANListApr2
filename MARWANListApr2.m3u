@@ -26,8 +26,8 @@ rtmp://162.212.176.107/ajyal?v=1269304399/globaltv-ajyal.stream
 #EXTINF:-1,MBC 3
 rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc3 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc3&width=600&height=400 
 
-#EXTINF:-1,                                            
-
+#EXTINF:-1,                                                    
+rtmp://stream.joinvisions.net/dij//dij
 
 #EXTINF:-1,Dubai TV 
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w1042183914_b1200000.m3u8
@@ -40,7 +40,8 @@ http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w15795
 
 
 
-#EXTINF:-1,                                                  
+#EXTINF:-1,                                                          
+rtmp://stream.joinvisions.net/dij//dij
 
 #EXTINF:-1, Dijla
 rtmp://stream.joinvisions.net/dij//dij
@@ -70,16 +71,18 @@ http://hls1.livestreamingcdn.com/livecdn753/1myStream.sdp/chunklist_w231892443.m
 rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad
 
 
-#EXTINF:-1,                 
-                                 
+#EXTINF:-1,                              
+rtmp://stream.joinvisions.net/dij//dij
+
 #EXTINF:0,FATAFEAT(Not working)
 http://212.179.77.42/live/livestream3/gmswf.m3u8
 
 #EXTINF:-1,CBC Sofra
 plugin://plugin.video.youtube/?action=play_video&videoid=LSk0f6JPg0o
 
-#EXTINF:-1,                                       
-                                              
+#EXTINF:-1,                             
+rtmp://stream.joinvisions.net/dij//dij
+
 #EXTINF:0,AGHANI Tv
 http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
 
@@ -118,7 +121,8 @@ http://yoolive.com/hls-shift/mbc_1.m3u8?st=eKcA9a8649VQ-Fx5A2-oyg&e=1431630683
 #EXTINF:0,MBC1(not working sometimes)
 rtmp://str1.ddns.me/iptv/ch30?code=090271059211803 
 
-#EXTINF:-1,                                       
+#EXTINF:-1,                                                         
+rtmp://stream.joinvisions.net/dij//dij
 
 #EXTINF:-1,MBC MAX
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
@@ -126,10 +130,8 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1,MBC BOLLYWOOD
 http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
-
 #EXTINF:-1,MBC 2
 http://63.237.48.3/ios/MBC2/MBC2.m3u8
-
 
 #EXTINF:-1,MBC 4
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
@@ -149,8 +151,8 @@ rtmp://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream
 
 
 
-#EXTINF:-1,                                       
-
+#EXTINF:-1,                                                           
+rtmp://stream.joinvisions.net/dij//dij
 
 http://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream/HasBahCa.m3u
 
@@ -212,14 +214,12 @@ rtmp://82.137.248.21/Drama?gmswf=1269304399/DramaLive3
 #EXTINF:-1, Al dunia
 rtmp://sama-tv.net/live/samatv
 
-#EXTINF:-1, Orient tv
-rtmp://173.192.180.122/live/live3
 
 #EXTINF:-1, dream 1 
 rtmp://162.212.176.107:1935/dream_1/globaltv-dream_1.stream
 
-#EXTINF:-1,                                       
-                 
+#EXTINF:-1,                                                       
+rtmp://stream.joinvisions.net/dij//dij
 
 #EXTINF:-1,Al WATAN
 http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvmed.m3u8
@@ -324,6 +324,11 @@ rtmp://162.212.176.107/national_geo_ad//globaltv-national_geo_ad.stream
 #EXTINF:-1,Royal Secret
 http://94.127.209.149:8080/secretsx/playlist.m3u8
 
+
+#EXTINF:-1,                    
+http://94.127.209.149:8080/secretsx/playlist.m3u8
+
+
 #EXTINF:-1,DW Arabia
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 
@@ -363,8 +368,9 @@ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
 
-#EXTINF:-1,            
-                  
+#EXTINF:-1,                          
+http://94.127.209.149:8080/secretsx/playlist.m3u8
+
 #EXTINF:-1, Dubai sport
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_w1247760086_b1200000.m3u8
 
