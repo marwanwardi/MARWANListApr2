@@ -1,7 +1,8 @@
 
  #EXTM3U
 
-#EXTINF:-1, Updated 14/05/15
+#EXTINF:-1,[COLOR yellow]»»-- Updated17/05/2015 --««[/COLOR]
+http://0.0.0.0:1234
 
 http://46.59.28.215:4949/bynumber/10
 
@@ -39,9 +40,8 @@ http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/chunklist_w517203350
 http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w157951105_b1200000.m3u8
 
 
-
-#EXTINF:-1,                                                          
-rtmp://stream.joinvisions.net/dij//dij
+#EXTINF:-1,[COLOR yellow]»»-----------------------------------------««[/COLOR]
+http://0.0.0.0:1234
 
 #EXTINF:-1, Dijla
 rtmp://stream.joinvisions.net/dij//dij
@@ -71,8 +71,9 @@ http://hls1.livestreamingcdn.com/livecdn753/1myStream.sdp/chunklist_w231892443.m
 rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad
 
 
-#EXTINF:-1,                              
-rtmp://stream.joinvisions.net/dij//dij
+
+#EXTINF:-1,[COLOR yellow]»»-----------------------------------------««[/COLOR]
+http://0.0.0.0:1234
 
 #EXTINF:0,FATAFEAT(Not working)
 http://212.179.77.42/live/livestream3/gmswf.m3u8
@@ -96,13 +97,13 @@ rtmp://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream
 http://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream/HasBahCa.m3u8
 
 
-#EXTINF:-1,                                       
 
-
-
+#EXTINF:-1,[COLOR yellow]»»-----------------------------------------««[/COLOR]
+http://0.0.0.0:1234
 
 #EXTINF:-1,Rotana Cinema
-rtmp://162.212.176.107/rotana_cinema//globaltv-rotana_cinema.stream
+
+http://204.107.27.248/live/_definst_/2615.low.stream/chunklist_w1952372033.m3u8?id=0ad5aac39bb13fbe18eb21affeca5396de4f79c0b4cd0a47006e67a53684f5f189d6ed52e5da9145020e0ffd98a98d0947cfc567a66c090d7f31f6b676ca51338aa85351ee29115516c64639e38a90a566a25e8017e94757df7198a55d631f9a2c106fdf08ae72bcb5f89c054accf051ffca0e6b9ea4473f556d4bc021c9a610f477656a4c3d39e0e208d2f21c5f9e6ea6d06254b5c6bc9e
 
 #EXTINF:-1,Rotana Classic
 rtmp://162.212.176.107/rotana_classic?v=1269304399/globaltv-rotana_classic.stream
@@ -121,8 +122,8 @@ http://yoolive.com/hls-shift/mbc_1.m3u8?st=eKcA9a8649VQ-Fx5A2-oyg&e=1431630683
 #EXTINF:0,MBC1(not working sometimes)
 rtmp://str1.ddns.me/iptv/ch30?code=090271059211803 
 
-#EXTINF:-1,                                                         
-rtmp://stream.joinvisions.net/dij//dij
+#EXTINF:-1,[COLOR yellow]»»-----------------------------------------««[/COLOR]
+http://0.0.0.0:1234
 
 #EXTINF:-1,MBC MAX
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
@@ -151,9 +152,12 @@ rtmp://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream
 
 
 
-#EXTINF:-1,                                                           
-rtmp://stream.joinvisions.net/dij//dij
 
+#EXTINF:-1,[COLOR yellow]»»-----------------------------------------««[/COLOR]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1,cairo cinema
 http://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream/HasBahCa.m3u
 
 #EXTINF:-1,cairo cinema
@@ -218,8 +222,8 @@ rtmp://sama-tv.net/live/samatv
 #EXTINF:-1, dream 1 
 rtmp://162.212.176.107:1935/dream_1/globaltv-dream_1.stream
 
-#EXTINF:-1,                                                       
-rtmp://stream.joinvisions.net/dij//dij
+#EXTINF:-1,[COLOR yellow]»»-----------------------------------------««[/COLOR]
+http://0.0.0.0:1234
 
 #EXTINF:-1,Al WATAN
 http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvmed.m3u8
@@ -368,8 +372,8 @@ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
 
-#EXTINF:-1,                          
-http://94.127.209.149:8080/secretsx/playlist.m3u8
+#EXTINF:-1,[COLOR yellow]»»-----------------------------------------««[/COLOR]
+http://0.0.0.0:1234
 
 #EXTINF:-1, Dubai sport
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_w1247760086_b1200000.m3u8
