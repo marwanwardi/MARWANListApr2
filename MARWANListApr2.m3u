@@ -84,6 +84,9 @@ rtmp://live-f01.vustream.net/live/livestream3
 #EXTINF:-1,CBC Sofra
 plugin://plugin.video.youtube/?action=play_video&videoid=LSk0f6JPg0o
 
+#EXTINF:-1, PANORAMA FOOD
+http://46.101.9.226/60/ch1318/index.m3u8
+
 
 
 #EXTINF:-1,[COLOR yellow]--------------------------------------------------------[/COLOR]
