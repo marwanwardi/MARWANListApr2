@@ -105,8 +105,21 @@ rtmp://162.212.176.107:1935/melody/globaltv-melody.stream
 #EXTINF:-1,Rotana Music
 rtmp://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream
 
+#EXTINF:-1,[COLOR yellow]---------------lebanon--------------------------[/COLOR]
+http://0.0.0.0:1234
 
+#EXTINF:-1,AL JADEED
+http://46.101.9.226/60/ch1285/index.m3u8
+#EXTINF:-1,OTV
+http://46.101.9.226/60/ch1048/index.m3u8
+#EXTINF:-1,LBC
+http://46.101.9.226/60/ch1020/index.m3u8
 
+#EXTINF:-1,FUTURE  TV
+http://46.101.9.226/60/ch1014/index.m3u8
+
+#EXTINF:-1,MTV LEBANON
+http://46.101.9.226/60/ch1287/index.m3u8
 
 #EXTINF:-1,[COLOR yellow]--------------------------------------------------------[/COLOR]
 http://0.0.0.0:1234
