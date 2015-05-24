@@ -1,7 +1,7 @@
 ﻿
  #EXTM3U
-#EXTINF:-1,[COLOR Blue]»»-New channels Added-««[/COLOR]
-http://0.0.0.0:1234
+ #EXTINF:0, [COLOR red]**NEW CHANNELS ADDED**[/COLOR]
+ http://11111111
 
 #EXTINF:-1,[COLOR yellow]»»-- Updated 24/05/2015 --««[/COLOR]
 http://0.0.0.0:1234
