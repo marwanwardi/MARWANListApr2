@@ -102,7 +102,7 @@ rtmp://162.212.176.107:1935/melody/globaltv-melody.stream
 rtmp://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream
 
 
-#EXTINF:-1,[COLOR yellow]--------------------------------------------------------[/COLOR]
+#EXTINF:-1,[COLOR yellow]---------------------------------------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1, MBC 1
@@ -221,26 +221,27 @@ http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatant
 #EXTINF:-1,On tv
 rtmp://50.7.180.18/elONTV?gmswf=1591696272/ontvlive_profile2.stream
 
-#EXTINF:-1,Saudi 1 (not working)
-plugin://plugin.video.youtube/?action=play_video&videoid=3RSqptk01PM
-
-#EXTINF:-1,Saudi 2
-rtmp://babflashlivefs.fplive.net/babflash3live-live?v=1269304399/stream2
-
-#EXTINF:-1,Saudi news
-rtmp://babflashlivefs.fplive.net/babflashlive-live?v=1269304399/stream2
-
-#EXTINF:-1,Mekka Quraan
-plugin://plugin.video.youtube/?action=play_video&videoid=W-Rkhi6FxhE
-
-#EXTINF:-1,Sunna
-plugin://plugin.video.youtube/?action=play_video&videoid=3Th1Z5PLtgE
+#EXTINF:-1,Mekka
+rtmp://streamer11.elementssys.com//mecca
 
 #EXTINF:-1,Mekka Quraan
 http://46.245.160.224/mekke/mekke/chunklist_w2004504864.m3u8?v=1269304399
 
-#EXTINF:-1,Mekka
-rtmp://streamer11.elementssys.com//mecca
+#EXTINF:-1,Saudi 1 (not working)
+plugin://plugin.video.youtube/?action=play_video&videoid=3RSqptk01PM
+
+#EXTINF:-1,Saudi 2(not working)
+rtmp://babflashlivefs.fplive.net/babflash3live-live?v=1269304399/stream2
+
+#EXTINF:-1,Saudi news(not working)
+rtmp://babflashlivefs.fplive.net/babflashlive-live?v=1269304399/stream2
+
+#EXTINF:-1,Mekka Quraan(not working)
+plugin://plugin.video.youtube/?action=play_video&videoid=W-Rkhi6FxhE
+
+#EXTINF:-1,Sunna(not working)
+plugin://plugin.video.youtube/?action=play_video&videoid=3Th1Z5PLtgE
+
 
 #EXTINF:0,MEDI 1 Sat
 http://162.212.176.107:1935/medi_1_sat/globaltv-medi_1_sat.stream/gmswf.m3u8
@@ -256,7 +257,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 
 #EXTINF:-1,Al Shorouk Tv
 http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
-
 
 #EXTINF:-1,Jordan
 rtmp://64.251.14.168/jorlive/jrtv
@@ -285,11 +285,11 @@ http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dd
 #EXTINF:-1,Qatar HD
 http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_156s30.m3u8
 
-#EXTINF:-1,Future tv
-rtmp://livestreaming.itworkscdn.net/ftvlive//ftvlive
-
 #EXTINF:-1,LBC Europe
 rtmp://162.212.176.107/lbc_europe/globaltv-lbc_europe.stream
+
+#EXTINF:-1,--------Nour group-------------
+https://svs.itworkscdn.net/nour4satlive/livestream/chunklist_w1044896853.m3u8
 
 #EXTINF:-1,Nour sat
 https://svs.itworkscdn.net/nour4satlive/livestream/chunklist_w1044896853.m3u8
