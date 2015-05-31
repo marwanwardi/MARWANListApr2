@@ -231,6 +231,15 @@ http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatant
 #EXTINF:-1,On tv
 rtmp://50.7.180.18/elONTV?gmswf=1591696272/ontvlive_profile2.stream
 
+#EXTINF:0,Majd
+rtmp://188.40.138.23/live//majdh_lq?gcd=almajdtv.tv&e=1433092482&st=w_lkx5H-AKqSaWcUX4R3FA
+
+#EXTINF:0,Majd quran
+rtmp://188.40.138.23/live//majdq_lq?gcd=almajdtv.tv&e=1433093468&st=_gd7kxhu_bbsKNfMBPhQvg
+
+#EXTINF:0,Majd
+rtmp://188.40.138.23/live//majdsc_lq?gcd=almajdtv.tv&e=1433093671&st=n4XK_49BV2xdfNkKK5BvkA
+
 #EXTINF:-1,Mekka
 rtmp://streamer11.elementssys.com//mecca
 
