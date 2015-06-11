@@ -72,7 +72,8 @@ rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad
 #EXTINF:-1,Al rafidain
 plugin://plugin.video.youtube/?action=play_video&videoid=X99rNlDpyII
 
-
+#EXTINF:-1,Al iraqia
+http://212.7.205.5:1935/Iraqia/live/chunklist_w1134735608.m3u8
 
 
 #EXTINF:-1,[COLOR yellow]------------Food-------------------------[/COLOR]
@@ -147,6 +148,9 @@ http://162.212.176.107:1935/rotana_cinema/globaltv-rotana_cinema.stream/HasBahCa
 #EXTINF:-1,Rotana Cinema
 rtmp://162.212.176.107/rotana_cinema?v=1635730994/globaltv-rotana_cinema.stream
 
+#EXTINF:-1,Rotana Cinema
+rtmp://162.212.176.107/rotana_cinema?v=1269310610/globaltv-rotana_cinema.stream
+
 #EXTINF:-1,Abu dhabi drama
 rtmp://162.212.176.107/abu_dhabi_drama//globaltv-abu_dhabi_drama.stream
                                            
@@ -219,6 +223,12 @@ rtmp://162.212.176.107:1935/dream_1/globaltv-dream_1.stream
 #EXTINF:-1,[COLOR yellow]--------------------------------------------------------[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1,Alarbi
+http://livestream-f.akamaihd.net/13453801_4043174_9d6d6d63_1_678@305458?v=3.6.0&fp=WIN%2017,0,0,188&r=KYQRG&g=GRQDRZCQFIWU
+
+#EXTINF:-1,Alarbi
+http://livestream-f.akamaihd.net/i/13453801_4043174_9d6d6d63_1@305458/index_2320_av-p.m3u8?sd=10&dw=100&rebase=on
+
 #EXTINF:-1,Ten tv
 plugin://plugin.video.youtube/?action=play_video&videoid=w-ThFEQPLrA
 
@@ -230,7 +240,6 @@ http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatant
 
 #EXTINF:-1,On tv
 rtmp://50.7.180.18/elONTV?gmswf=1591696272/ontvlive_profile2.stream
-
 
 #EXTINF:-1,Mekka
 rtmp://streamer11.elementssys.com//mecca
@@ -332,6 +341,7 @@ http://94.127.209.149:8080/secretsx/playlist.m3u8
 
 #EXTINF:-1,[COLOR yellow]-------------------News------------------------[/COLOR]
 http://0.0.0.0:1234
+
 #EXTINF:-1,DW Arabia
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 
@@ -344,7 +354,6 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
 
 #EXTINF:0,ALArabia
-
 http://arabic.dynns.com:1935/arabic/ALArabia/chunklist_w1911567358.m3u8?wmsAuthSign
 
 #EXTINF:-1,Alarabiya
@@ -354,7 +363,7 @@ http://46.101.9.226/60/ch1297/index.m3u8
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 
 #EXTINF:-1,Sky news
-http://46.101.9.226/60/ch1263/index.m3u8
+rtmp://skynews.fc.llnwd.net/skynews/_definst_?gmswf=1269310610/skynewsarabia
 
 #EXTINF:0,Aljazeera
 plugin://plugin.video.youtube/?action=play_video&videoid=n5M3EbG9ncU
@@ -385,22 +394,29 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_w12477
 #EXTINF:-1, iraqia sport
 http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
 
-
 #EXTINF:-1, Saudi sport
-http://intigral_live-lh.akamaihd.net/i/DPS2KCCAHLXSHB010514_1@135296/index_1200_av-p.m3u8?sd=10&rebase=on
+rtmp://babflashlivefs.fplive.net/babflash4live-live?v=1269310610/stream2
 
-#EXTINF:-1,KAS 
-http://137.135.64.32:1935/kas/kas/gmswf.m3u8
+#EXTINF:-1,KAS 1
+http://alkass-i.akamaihd.net/hls/live/205534/1/live_84s20.m3u8
+
+#EXTINF:-1,KAS 2
+http://alkass-i.akamaihd.net/hls/live/205534/2/live_75s20.m3u8
+
+#EXTINF:-1,KAS 2
+http://alkass-i.akamaihd.net/hls/live/205534/3/live_74s20.m3u8
 
 #EXTINF:-1,MBC pro 1 sport
-http://intigral_live-lh.akamaihd.net/i/DPS3KCCNJNXNSR300415_1@301567/index_1200_av-b.m3u8?sd=10&rebase=on
+http://intigral_live-lh.akamaihd.net/z/DPS3KCCHILXNSR050615_1@301567/1200_ef9c0c6a55114aa9-p_
 
 #EXTINF:-1,MBC pro 2 sport
-http://intigral_live-lh.akamaihd.net/i/DPS3SPLSHBXORB260415_1@301567/index_1200_av-b.m3u8?sd=10&rebase=on
+http://intigral_live-lh.akamaihd.net/i/DPS3SPLFTHXORB150515_1@301567/index_1200_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,MBC SPORT HD 3
 http://intigral_live-lh.akamaihd.net/i/DPS3SPLSHOXTWN220315_1@301567/index_1200_av-b.m3u8
 
+#EXTINF:-1,Iraqia sport
+http://212.7.205.5:1935/sport/live/chunklist_w1903408863.m3u8
 
 #EXTINF:-1,[COLOR yellow]------------------Test-----------------------[/COLOR]
 http://0.0.0.0:1234
