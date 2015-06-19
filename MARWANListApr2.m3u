@@ -1,7 +1,9 @@
 ﻿#EXTM3U
 
+#EXTINF:-1,[COLOR red]*Ramadan Kareem*[/COLOR]
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc1&width=600&height=400
 
-#EXTINF:-1,[COLOR yellow]»»-- Updated 15/06/2015 --««[/COLOR]
+#EXTINF:-1,[COLOR yellow]»»-- Updated 19/06/2015 --««[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,[COLOR yellow]»»------------Cartoon----------------««[/COLOR]
@@ -26,7 +28,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
 rtmp://162.212.176.107/ajyal?v=1269304399/globaltv-ajyal.stream
 
 #EXTINF:-1,MBC 3(not woking)
-http://streamer1.cdniptv.com/live-origin/ch19/playlist.m3u8
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc3 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc3&width=600&height=400
 
 #EXTINF:-1,[COLOR yellow]»»------------Dubai group------------------««[/COLOR]
 http://0.0.0.0:1234
@@ -81,10 +83,10 @@ http://0.0.0.0:1234
 
 
 #EXTINF:0,FATAFEAT
-rtmp://live-f01.vustream.net/live/livestream3
+http://162.212.176.107:1935/fatafeat/globaltv-fatafeat.stream/chunklist_w213776043.m3u8
 
 #EXTINF:-1,CBC Sofra
-plugin://plugin.video.youtube/?action=play_video&videoid=LSk0f6JPg0o
+plugin://plugin.video.youtube/?action=play_video&videoid=Sk-9V84qfZ8
 
 
 #EXTINF:-1,[COLOR yellow]---------------------Music----------------------------[/COLOR]
@@ -106,7 +108,8 @@ rtmp://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream
 http://0.0.0.0:1234
 
 #EXTINF:-1, MBC 1
-http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mbc1
+
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc1&width=600&height=400
 
 #EXTINF:-1,MBC MAX
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
@@ -164,7 +167,7 @@ rtmp://162.212.176.107/cairo_drama//globaltv-cairo_drama.stream
 rtmp://162.212.176.107/mbc_masr?v=1269304399/globaltv-mbc_masr.stream
 
 #EXTINF:-1,Mbc_masr
-rtmp://162.212.176.107/mbc_masr?v=3160814918/globaltv-mbc_masr.stream
+rtmp://162.212.176.107/mbc_masr//globaltv-mbc_masr.stream
 
 #EXTINF:-1,Moga Comedy
 rtmp://162.212.176.107/moga_comedy?v=3315749764//globaltv-moga_comedy.stream
@@ -216,25 +219,22 @@ rtmp://82.137.248.21/Drama?gmswf=1269304399/DramaLive3
 #EXTINF:-1,Al dunia
 rtmp://sama-tv.net/live/samatv
 
-#EXTINF:-1,Dream 1 
+#EXTINF:-1,Dream 2
 rtmp://162.212.176.107:1935/dream_1/globaltv-dream_1.stream
+
+#EXTINF:-1,Rotana Khaliji
+plugin://plugin.video.youtube/?action=play_video&videoid=pT3NQTWOn8A
+
 
 #EXTINF:-1,[COLOR yellow]--------------------------------------------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,Alarbi
-http://livestream-f.akamaihd.net/13453801_4043174_9d6d6d63_1_678@305458?v=3.6.0&fp=WIN%2017,0,0,188&r=KYQRG&g=GRQDRZCQFIWU
 
-#EXTINF:-1,Alarbi
-http://livestream-f.akamaihd.net/i/13453801_4043174_9d6d6d63_1@305458/index_2320_av-p.m3u8?sd=10&dw=100&rebase=on
 
-#EXTINF:-1,Ten tv
-plugin://plugin.video.youtube/?action=play_video&videoid=w-ThFEQPLrA
-
-#EXTINF:-1,Al WATAN
+#EXTINF:-1,Al WATAN (not working)
 http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvmed.m3u8
 
-#EXTINF:-1,Al WATAN PLUS
+#EXTINF:-1,Al WATAN PLUS (not working)
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplusmed.m3u8
 
 #EXTINF:-1,On tv
@@ -303,8 +303,6 @@ http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
 #EXTINF:-1,2M 
 http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 
-#EXTINF:-1,Qatar HD
-http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_156s30.m3u8
 
 #EXTINF:-1,LBC Europe
 rtmp://162.212.176.107/lbc_europe/globaltv-lbc_europe.stream
@@ -420,21 +418,6 @@ http://212.7.205.5:1935/sport/live/chunklist_w1903408863.m3u8
 #EXTINF:-1,[COLOR yellow]------------------Test-----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,[COLOR yellow]-Most of are working-[/COLOR]
+#EXTINF:-1,[COLOR yellow]-Most of them are not working-[/COLOR]
 http://0.0.0.0:1234
-
-#EXTINF:-1,ART Cinema
-http://gui.cdniptv.com:8888/hls/art-cinema.m3u8?frd8fi6blyq46ep
-#EXTINF:-1,art _aflam 2
-rtmp://162.212.176.107:1935/art_aflam_2/globaltv-art_aflam_2.stream
-#EXTINF:-1,Rotana Clip
-http://gui.cdniptv.com:8888/hls/rotana-clip.m3u8?frd8fi6blyq46ep
-#EXTINF:-1,Rotana Classic
-http://gui.cdniptv.com:8888/hls/rotana-classic.m3u8?frd8fi6blyq46ep
-#EXTINF:-1,Rotana Khaligi
-http://gui.cdniptv.com:8888/hls/rotana-khalijiah.m3u8?frd8fi6blyq46ep
-#EXTINF:-1,Rotana Masriya
-http://gui.cdniptv.com:8888/hls/rotana-massriya.m3u8?frd8fi6blyq46ep
-#EXTINF:-1,Rotana Music
-http://gui.cdniptv.com:8888/hls/rotana.m3u8?frd8fi6blyq46ep
 
