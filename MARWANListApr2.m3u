@@ -101,12 +101,14 @@ http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
 
 
 
-#EXTINF:-1,[COLOR yellow]---------------------------------------------------[/COLOR]
+#EXTINF:-1,[COLOR yellow]-------------------------------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,MBC 1
+http://38.99.146.36:7777/MBC1_HD/MBC1_High.m3u8?user=23508&session=b77ec172e159a5be9963076e3ec2be09f6282ef9c82a8b52de664ccb5284b096a299017ce29bf1aa&hlsid=HLS_1531177
 
-rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc1&width=600&height=400
+#EXTINF:-1,mbc_1
+http://38.99.146.36:7777/MBC1_HD/MBC1_High.m3u8?user=23508&session=b77ec172e159a5be9963076e3ec2be09f6282ef9c82a8b52de664ccb5284b096a299017ce29bf1aa&hlsid=HLS_1531177
 
 #EXTINF:-1,MBC MAX
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
