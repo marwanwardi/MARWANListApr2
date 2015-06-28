@@ -73,7 +73,6 @@ http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
 #EXTINF:0,Hona Baghdad
 rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad
 
-#EXTINF:-1,Al rafidain
 
 
 #EXTINF:-1,Al iraqia
@@ -110,6 +109,11 @@ http://38.99.146.36:7777/MBC1_HD/MBC1_High.m3u8?user=23508&session=b77ec172e159a
 #EXTINF:-1,mbc_1
 http://38.99.146.36:7777/MBC1_HD/MBC1_High.m3u8?user=23508&session=b77ec172e159a5be9963076e3ec2be09f6282ef9c82a8b52de664ccb5284b096a299017ce29bf1aa&hlsid=HLS_1531177
 
+
+
+#EXTINF:-1,mbc masr
+http://38.99.146.36:7777/MBCMaser_HD/MBCMaser_High.m3u8?user=51534&session=165e825534119264f23a29c1e31b73b745562905f4504c02c49e6df99045c84fa299017ce29bf1aa&hlsid=HLS_1535807
+
 #EXTINF:-1,MBC MAX
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 
@@ -138,33 +142,6 @@ rtmp://web2.iptv-planet.com:1937/live2/fm?key=083117110032074117110032050056
 
 #EXTINF:-1,[COLOR yellow]-------------Drama & Movies--------------------[/COLOR]
 http://0.0.0.0:1234
-
-
-#EXTINF:-1,Rotana Classic
-
-
-#EXTINF:-1,Rotana Cinema
-
-
-#EXTINF:-1,Rotana Cinema
-
-
-#EXTINF:-1,Rotana Cinema
-
-
-#EXTINF:-1,Abu dhabi drama
-
-                                           
-#EXTINF:-1,cairo cinema
-
-
-#EXTINF:-1,cairo_drama
-
-
-#EXTINF:-1,Mbc masr
-
-
-#EXTINF:-1,Mbc_masr
 
 
 #EXTINF:-1,Moga Comedy
@@ -268,14 +245,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 
 #EXTINF:-1,Jordan
 rtmp://64.251.14.168/jorlive/jrtv
-
-#EXTINF:-1,Tunisia National 1
-
-
-#EXTINF:-1,tunisia watanya
-
-
-#EXTINF:-1,tunisia watanya 2
 
 
 #EXTINF:-1,Nessma 
