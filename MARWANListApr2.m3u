@@ -27,14 +27,12 @@ rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
 #EXTINF:-1,Jeem Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
 
-#EXTINF:-1,Ajyal
-
 
 #EXTINF:-1,MBC 3(not woking)
 rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc3 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc3&width=600&height=400
 
 
-#EXTINF:-1,[COLOR yellow]»»------------Dubai group------------------««[/COLOR]
+#EXTINF:-1,[COLOR yellow]»»-----------Dubai group-----------------««[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,Dubai TV 
