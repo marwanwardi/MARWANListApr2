@@ -14,14 +14,12 @@ rtmp://78.100.40.195/brm/?gmswf=1268884471/brm
 
 #EXTINF:-1,Baraem 2
 rtmp://agendastreamerx1.qna.org.qa/brm?gmswf=1268877095/brm
+
 #EXTINF:-1,Baraem 
 http://38.99.146.36:7777/Baraem_HD/Baraem_High.m3u8?user=32086&session=12fffc301da10aac53a8d516b30b95779046307fc0eb09b1d4c93b86fb358ee7&hlsid=HLS_5919671
 
 #EXTINF:-1,CN Arabic
 http://38.99.146.36:7777/CNArabia_HD/CNArabia_High.m3u8?user=28014&session=6a7c616b259fb0cf19d172d87799979526000ebd9765c4c48f19a9298a89e8b4&hlsid=HLS_5922039
-
-#EXTINF:-1,Baraem Europe(not working now)
-http://46.59.28.215:4949/bynumber/10
 
 #EXTINF:-1,Jeem Kids
 rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
@@ -29,12 +27,11 @@ rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
 #EXTINF:-1,Jeem Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
 
+#EXTINF:-1,MBC 3
+http://38.99.146.36:7777/MBC3_HD/MBC3_High.m3u8?user=63251&session=c578454bb34fa7bf7db7a83924875713d8b77c9ac3be3ad3d2f6edd80dc972ea&hlsid=HLS_5927350
 
-#EXTINF:-1,MBC 3(not woking)
-rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc3 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc3&width=600&height=400
 
-
-#EXTINF:-1,[COLOR yellow]»»-----------Dubai group-----------------««[/COLOR]
+#EXTINF:-1,[COLOR yellow]»»-----------Dubai group---------------««[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,Dubai TV 
@@ -46,7 +43,7 @@ http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/chunklist_w517203350
 #EXTINF:-1,Noor Dubai TV 
 http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w157951105_b1200000.m3u8
 
-#EXTINF:-1,[COLOR yellow]-------------------Iraqi-----------------------[/COLOR]
+#EXTINF:-1,[COLOR yellow]-----------------Iraqi---------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1, Dijla
@@ -86,13 +83,13 @@ http://0.0.0.0:1234
 
 
 #EXTINF:0,FATAFEAT
-http://162.212.176.107:1935/fatafeat/globaltv-fatafeat.stream/chunklist_w213776043.m3u8
+http://38.99.146.37:7777/Fatafeat_HD/Fatafeat_HD.m3u8?user=42799&session=554d4d7b0b7319193be5bfbce745fef53af64832b6fa02fafc1d541385d4625c&hlsid=HLS_15252
 
 #EXTINF:-1,CBC Sofra
 plugin://plugin.video.youtube/?action=play_video&videoid=Sk-9V84qfZ8
 
 
-#EXTINF:-1,[COLOR yellow]---------------------Music--------------------------[/COLOR]
+#EXTINF:-1,[COLOR yellow]--------------Music----------------------[/COLOR]
 http://0.0.0.0:1234
 
 
@@ -102,16 +99,18 @@ http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
 
 
 
-#EXTINF:-1,[COLOR yellow]-------------------------------------------[/COLOR]
+#EXTINF:-1,[COLOR yellow]-----------------------------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,MBC 1
 http://38.99.146.36:7777/MBC1_HD/MBC1_High.m3u8?user=23508&session=b77ec172e159a5be9963076e3ec2be09f6282ef9c82a8b52de664ccb5284b096a299017ce29bf1aa&hlsid=HLS_1531177
 
-
-
 #EXTINF:-1,mbc masr
 http://38.99.146.36:7777/MBCMaser_HD/MBCMaser_High.m3u8?user=51534&session=165e825534119264f23a29c1e31b73b745562905f4504c02c49e6df99045c84fa299017ce29bf1aa&hlsid=HLS_1535807
+
+
+#EXTINF:-1,MBC MASR 2
+http://38.99.146.36:7777/MBCMasrPlus2_HD/MBCMasrPlus2_High.m3u8?user=54650&session=b7f74e59ff9675a93c33735bff988525827aff90b1409cda7358a2351a13615d&hlsid=HLS_5928261
 
 #EXTINF:-1,MBC MAX
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
@@ -142,9 +141,11 @@ rtmp://web2.iptv-planet.com:1937/live2/fm?key=083117110032074117110032050056
 #EXTINF:-1,[COLOR yellow]-------------Drama & Movies--------------------[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1,Panorama Film
+http://38.99.146.36:7777/PanoramaFilm_HD/PanoramaFilm_High.m3u8?user=42206&session=62ab924497619f5f499be70a5b4a8342cde08d531e6c47eb19743b855e1e8899&hlsid=HLS_5931094
 
 #EXTINF:-1,Moga Comedy
-rtmp://162.212.176.107/moga_comedy?v=3315749764//globaltv-moga_comedy.stream
+http://38.99.146.36:7777/MogaComedy_HD/MogaComedy_High.m3u8?user=60739&session=9fbbc3b7f747eaff25b169a3239c402c7c0d2bf41b599bb5dd0d6ed4497d3e98&hlsid=HLS_5930068
 
 #EXTINF:-1,Funoon TV
 http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8?v=1269310610
