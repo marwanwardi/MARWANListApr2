@@ -12,7 +12,7 @@ rtmp://78.100.40.195/brm/?gmswf=1268884471/brm
 #EXTINF:-1,Baraem 2
 rtmp://agendastreamerx1.qna.org.qa/brm?gmswf=1268877095/brm
 
-#EXTINF:-1,Baraem 
+#EXTINF:-1,Baraem HD
 http://38.99.146.36:7777/Baraem_HD/Baraem_High.m3u8?user=32086&session=12fffc301da10aac53a8d516b30b95779046307fc0eb09b1d4c93b86fb358ee7&hlsid=HLS_5919671
 
 #EXTINF:-1,CN Arabic
@@ -21,7 +21,7 @@ http://38.99.146.36:7777/CNArabia_HD/CNArabia_High.m3u8?user=28014&session=6a7c6
 #EXTINF:-1,Jeem Kids
 rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
  
-#EXTINF:-1,Jeem Kids
+#EXTINF:-1,Jeem Kids HD
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
 
 #EXTINF:-1,MBC 3
@@ -29,7 +29,7 @@ http://38.99.146.36:7777/MBC3_HD/MBC3_High.m3u8?user=63251&session=c578454bb34fa
 
 
 #EXTINF:-1,[COLOR yellow]»»-----------Dubai group---------------««[/COLOR]
-http://0.0.0.0:1234
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w1042183914_b1200000.m3u8
 
 #EXTINF:-1,Dubai TV 
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w1042183914_b1200000.m3u8
@@ -40,7 +40,7 @@ http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/chunklist_w517203350
 #EXTINF:-1,Noor Dubai TV 
 http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w157951105_b1200000.m3u8
 
-#EXTINF:-1,[COLOR yellow]-----------------Iraqi---------------------[/COLOR]
+#EXTINF:-1,[COLOR yellow]»»----------------Iraqi------------------««[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1, Dijla
@@ -75,7 +75,7 @@ rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad
 http://212.7.205.5:1935/Iraqia/live/chunklist_w1134735608.m3u8
 
 
-#EXTINF:-1,[COLOR yellow]------------Food-------------------------[/COLOR]
+#EXTINF:-1,[COLOR yellow]»»------------Food------------------««[/COLOR]
 http://0.0.0.0:1234
 
 
@@ -86,7 +86,7 @@ http://38.99.146.37:7777/Fatafeat_HD/Fatafeat_HD.m3u8?user=42799&session=554d4d7
 plugin://plugin.video.youtube/?action=play_video&videoid=Sk-9V84qfZ8
 
 
-#EXTINF:-1,[COLOR yellow]--------------Music----------------------[/COLOR]
+#EXTINF:-1,[COLOR yellow]»»--------------Music-----------------««[/COLOR]
 http://0.0.0.0:1234
 
 
