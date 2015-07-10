@@ -1,9 +1,6 @@
 ﻿#EXTM3U
 
-#EXTINF:-1,[COLOR red]*Ramadan Kareem*[/COLOR]
-rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc1&width=600&height=400
-
-#EXTINF:-1,[COLOR yellow]»»-- Updated 7/07/2015 --««[/COLOR]
+#EXTINF:-1,[COLOR yellow]»»-- Updated 9/07/2015 --««[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,[COLOR yellow]»»------------Cartoon----------------««[/COLOR]
