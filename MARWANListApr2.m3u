@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-#EXTINF:-1,[COLOR yellow]»»-- Updated 9/07/2015 --««[/COLOR]
+#EXTINF:-1,[COLOR yellow]»»-- Updated 10/07/2015 --««[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,[COLOR yellow]»»------------Cartoon----------------««[/COLOR]
@@ -96,7 +96,7 @@ http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
 
 
 
-#EXTINF:-1,[COLOR yellow]-----------------------------------------[/COLOR]
+#EXTINF:-1,[COLOR yellow]»»----------------MBC-----------------««[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,MBC 1
@@ -116,13 +116,11 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
 #EXTINF:-1,MBC 2
-http://63.237.48.3/ios/MBC2/MBC2.m3u8
 
 #EXTINF:-1,MBC 4
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 
-#EXTINF:-1,MBC 4
-http://63.237.48.3/ios/MBC_4/MBC_4.m3u8
+
 
 #EXTINF:-1,MBC Action
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
@@ -132,10 +130,9 @@ http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/chunklist_w57614010_b1
 
 
 #EXTINF:-1,Fox movies 
-rtmp://web2.iptv-planet.com:1937/live2/fm?key=083117110032074117110032050056
 
 
-#EXTINF:-1,[COLOR yellow]-------------Drama & Movies--------------------[/COLOR]
+#EXTINF:-1,[COLOR yellow]»--------------Drama & Movies-----------------««[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,Panorama Film
@@ -188,23 +185,15 @@ rtmp://82.137.248.21/Drama?gmswf=1269304399/DramaLive3
 #EXTINF:-1,Al dunia
 rtmp://sama-tv.net/live/samatv
 
-#EXTINF:-1,Ten
-rtmp://198.255.5.66:443/live?xocF6uAqQv841NdcRmuYO20xuDjmcMIu/live_20satcom
 
 #EXTINF:-1,Rotana Khaliji
 plugin://plugin.video.youtube/?action=play_video&videoid=pT3NQTWOn8A
 
 
-#EXTINF:-1,[COLOR yellow]--------------Other------------[/COLOR]
+#EXTINF:-1,[COLOR yellow]»--------------Other-----------------««[/COLOR]
 http://0.0.0.0:1234
 
 
-
-#EXTINF:-1,Al WATAN (not working)
-http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvmed.m3u8
-
-#EXTINF:-1,Al WATAN PLUS (not working)
-http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplusmed.m3u8
 
 #EXTINF:-1,On tv
 rtmp://50.7.180.18/elONTV?gmswf=1591696272/ontvlive_profile2.stream
