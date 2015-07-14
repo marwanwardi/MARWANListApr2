@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 
 #EXTINF:-1,[COLOR yellow]»»-- Updated 14/07/2015 --««[/COLOR]
 http://0.0.0.0:1234
@@ -6,11 +6,6 @@ http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]»»------------Cartoon----------------««[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,Baraem 
-rtmp://78.100.40.195/brm/?gmswf=1268884471/brm
-
-#EXTINF:-1,Baraem 2
-rtmp://agendastreamerx1.qna.org.qa/brm?gmswf=1268877095/brm
 
 #EXTINF:-1,Baraem HD
 http://38.99.146.36:7777/Baraem_HD/Baraem_High.m3u8?user=32086&session=12fffc301da10aac53a8d516b30b95779046307fc0eb09b1d4c93b86fb358ee7&hlsid=HLS_5919671
@@ -40,7 +35,7 @@ http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/chunklist_w517203350
 #EXTINF:-1,Noor Dubai TV 
 http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w157951105_b1200000.m3u8
 
-#EXTINF:-1,[COLOR yellow]»»----------------Iraqi------------------««[/COLOR]
+#EXTINF:-1,[COLOR yellow]»»--------------Iraqi----------------««[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1, Dijla
@@ -89,6 +84,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=Sk-9V84qfZ8
 #EXTINF:-1,[COLOR yellow]»»--------------Music-----------------««[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1,ROTANA clip
+
+http://38.99.146.36:7777/RotanaMusic_HD/RotanaMusic_HD.m3u8?user=65015&session=748605a300bb4fd4dc8258ee83b1278e71c65ee557c9fd6c60140a032ed61dc1&hlsid=HLS_5936968
 
 
 #EXTINF:0,AGHANI Tv
@@ -116,10 +114,10 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
 #EXTINF:-1,MBC 2
+http://38.99.146.36:7777/MBC2_HD/MBC2_High.m3u8?user=46348&session=796c097bc2da54af9a6f0b5747c0a2c58f863a65a5e95cf3b2a88dbe2a7c9f59a299017ce29bf1aa&hlsid=HLS_473514
 
 #EXTINF:-1,MBC 4
-http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
-
+http://38.99.146.36:7777/MBC4_HD/MBC4_High.m3u8?user=81872&session=ff2571a4902cd0ca06269967aedf163546e185e2fb05a15702b08fb3cc080f21a299017ce29bf1aa&hlsid=HLS_473091
 
 
 #EXTINF:-1,MBC Action
@@ -129,10 +127,15 @@ http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/chunklist_w57614010_b1800000.m3u8
 
 
-#EXTINF:-1,Fox movies 
+#EXTINF:0,Fox movies
+http://38.99.146.36:7777/FoxMovies_HD/FoxMovies_High.m3u8?user=32840&session=8003b13168421f05f755ba838e77bf512894f26f888da114bdbe8028005d3dfc&hlsid=HLS_5944633
+
+#EXTINF:0,Fox
+http://38.99.146.36:7777/Fox_HD/Fox_High.m3u8?user=84582&session=227f8ac5eded6436bb87e3183cd431a9011d9bca16c39ffbd9382703e13e38e8&hlsid=HLS_5945621
 
 
-#EXTINF:-1,[COLOR yellow]»--------------Drama & Movies-----------------««[/COLOR]
+
+#EXTINF:-1,[COLOR yellow]»------------Drama & Movies--------------««[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,Panorama Film
@@ -190,10 +193,14 @@ rtmp://sama-tv.net/live/samatv
 plugin://plugin.video.youtube/?action=play_video&videoid=pT3NQTWOn8A
 
 
-#EXTINF:-1,[COLOR yellow]»--------------Other-----------------««[/COLOR]
+#EXTINF:-1,[COLOR yellow]»--------------Other---------------««[/COLOR]
 http://0.0.0.0:1234
 
 
+#EXTINF:-1,LDC
+http://38.99.146.36:7777/LDC_HD/LDC_High.m3u8?user=45691&session=2ab75a296ef3b1b9f7d6bde3ede95a7473c48e2aec3985a53d5c769dd8bfacdca299017ce29bf1aa&hlsid=HLS_486599
+#EXTINF:-1,Mtv
+http://38.99.146.37:7777/MTVLebanon_HD/MTVLebanon_HD.m3u8?user=58224&session=65517ec32d77ba12d1f0b5c073b72506a77fa3c9dd83911af759ac723b9e0f38&hlsid=HLS_18945
 
 #EXTINF:-1,On tv
 rtmp://50.7.180.18/elONTV?gmswf=1591696272/ontvlive_profile2.stream
@@ -272,8 +279,7 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
 #EXTINF:-1,Nat geo Ad hd
-rtmp://162.212.176.107/national_geo_ad//globaltv-national_geo_ad.stream
-
+http://38.99.146.36:7777/ADNatGeo_HD/ADNatGeo_High.m3u8?user=90878&session=cfc99cf937acae08ffc6c739e72726d734b3465c84f1fa810a45fcbe0b72c5fda299017ce29bf1aa&hlsid=HLS_470861
 #EXTINF:-1,Royal Secret
 http://94.127.209.149:8080/secretsx/playlist.m3u8
 
@@ -299,10 +305,11 @@ http://arabic.dynns.com:1935/arabic/ALArabia/chunklist_w1911567358.m3u8?wmsAuthS
 http://46.101.9.226/60/ch1297/index.m3u8
 
 #EXTINF:-1,Arabya alhadath
-http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+http://38.99.146.36:7777/AlArabiyaHadath_HD/AlArabiyaHadath_High.m3u8?user=77329&session=828842b8f376b5acd9548b5fc6c048a9bb1ad59c82e932cc6d811aa08f5155a8a299017ce29bf1aa&hlsid=HLS_489003
 
 #EXTINF:-1,Sky news
-rtmp://skynews.fc.llnwd.net/skynews/_definst_?gmswf=1269310610/skynewsarabia
+
+http://38.99.146.36:7777/SkyNews_HD/SkyNews_High.m3u8?user=53574&session=1c62392a322699f79b005ed5cbe357cd14a7c9effda35beb9c14eca934a87ae3a299017ce29bf1aa&hlsid=HLS_472034
 
 #EXTINF:0,Aljazeera
 plugin://plugin.video.youtube/?action=play_video&videoid=n5M3EbG9ncU
@@ -359,65 +366,3 @@ http://212.7.205.5:1935/sport/live/chunklist_w1903408863.m3u8
 
 #EXTINF:-1,[COLOR yellow]------------------Test-----------------------[/COLOR]
 http://0.0.0.0:1234
-
-#EXTINF:-1,[COLOR yellow]-Most of them are not working-[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1,Fox
-http://176.53.21.99:8082/TV6010
-
-#EXTINF:-1,MBC 1
-http://176.53.21.99:8082/TV6029
-
-#EXTINF:-1,MTV L
-http://176.53.21.99:8082/TV6041
-
-#EXTINF:-1,MBC Action
-http://176.53.21.99:8082/TV6033
-#EXTINF:-1,MBC Bollywood
-http://176.53.21.99:8082/TV6034
-#EXTINF:-1,MBC Drama
-http://176.53.21.99:8082/TV6035
-#EXTINF:-1,MBC Max
-http://176.53.21.99:8082/TV6036
-#EXTINF:-1,NBN
-http://176.53.21.99:8082/TV6038
-#EXTINF:-1,Al Manar
-http://176.53.21.99:8082/TV6039
-#EXTINF:-1,TV5 Monde Orient
-http://176.53.21.99:8082/TV6023
-#EXTINF:-1,Orient News
-http://176.53.21.99:8082/TV6024
-#EXTINF:-1,Dubai One
-http://176.53.21.99:8082/TV6025
-#EXTINF:-1,Abu Dhabi Sport 1
-http://176.53.21.99:8082/TV6026
-#EXTINF:-1,CNBC Arabic
-http://176.53.21.99:8082/TV6027
-
-#EXTINF:-1,Fox Movies
-http://176.53.21.99:8082/TV6011
-#EXTINF:-1,Rotana Music
-http://176.53.21.99:8082/TV6012
-#EXTINF:-1,Rotana Cinema
-http://176.53.21.99:8082/TV6013
-#EXTINF:-1,Rotana Aflam
-http://176.53.21.99:8082/TV6014
-#EXTINF:-1,Rotana Classic
-http://176.53.21.99:8082/TV6015
-#EXTINF:-1,Rotana Clip
-http://176.53.21.99:8082/TV6016
-#EXTINF:-1,Rotana Khaligi
-http://176.53.21.99:8082/TV6017
-#EXTINF:-1,Rotana Masriya
-http://176.53.21.99:8082/TV6018
-#EXTINF:-1,Ajman
-http://176.53.21.99:8082/TV6019
-#EXTINF:-1,Noor Dubai
-http://176.53.21.99:8082/TV6020
-#EXTINF:-1,GearOne
-http://176.53.21.99:8082/TV6021
-#EXTINF:-1,LDC h
-http://176.53.21.99:8082/TV6022
-
-
