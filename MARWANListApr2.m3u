@@ -88,28 +88,33 @@ plugin://plugin.video.youtube/?action=play_video&videoid=Sk-9V84qfZ8
 #EXTINF:-1,[COLOR yellow]»»--------------Music-----------------««[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1,ROTANA 
+http://38.99.146.37:7777/RotanaMusic_HD/RotanaMusic_HD.m3u8?user=93719&session=d8f0d96011b3cd70ff417f71d76c70246d27ad56695eae5e094915f7b807475da299017ce29bf1aa&hlsid=HLS_475661
+
 #EXTINF:-1,ROTANA clip
+http://38.99.146.37:7777/RotanaClip_HD/RotanaClip_High.m3u8?user=71512&session=8d0187d05b78b9274b8a80b6693bbf0e6f17b93dbb1d57e7cc9582e35f5f66f1a299017ce29bf1aa&hlsid=HLS_475440
 
-http://38.99.146.36:7777/RotanaMusic_HD/RotanaMusic_HD.m3u8?user=65015&session=748605a300bb4fd4dc8258ee83b1278e71c65ee557c9fd6c60140a032ed61dc1&hlsid=HLS_5936968
 
+#EXTINF:-1,Marina FM TV
+rtmp://38.96.175.16/live/MarinaFM2
 
-#EXTINF:0,AGHANI Tv
+#EXTINF:-1,AGHANI Tv
 http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
-
 
 
 #EXTINF:-1,[COLOR yellow]»»----------------MBC-----------------««[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,MBC 1
-
+#EXTINF:-1,mbc1
 http://38.99.146.37:7777/MBC1_HD/MBC1_High.m3u8?user=52088&session=eb0950054e57feb59be3a57f111423158a0a22da4f3293f9ff95cb54e255efe8a299017ce29bf1aa&hlsid=HLS_1982262
+
 
 #EXTINF:-1,mbc masr
 http://38.99.146.37:7777/MBCMaser_HD/MBCMaser_High.m3u8?user=11186&session=047a6432d38d3ddbf41f5d5e4602ab9ed668c52b265243dbbec24c6105da35afa299017ce29bf1aa&hlsid=HLS_1980773
 
+
 #EXTINF:-1,MBC MASR 2
-http://38.99.146.36:7777/MBCMasrPlus2_HD/MBCMasrPlus2_High.m3u8?user=54650&session=b7f74e59ff9675a93c33735bff988525827aff90b1409cda7358a2351a13615d&hlsid=HLS_5928261
+
 
 #EXTINF:-1,MBC MAX
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
@@ -120,8 +125,8 @@ http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1,MBC 2
 http://38.99.146.36:7777/MBC2_HD/MBC2_High.m3u8?user=46348&session=796c097bc2da54af9a6f0b5747c0a2c58f863a65a5e95cf3b2a88dbe2a7c9f59a299017ce29bf1aa&hlsid=HLS_473514
 
-#EXTINF:-1,MBC 4
-http://38.99.146.36:7777/MBC4_HD/MBC4_High.m3u8?user=81872&session=ff2571a4902cd0ca06269967aedf163546e185e2fb05a15702b08fb3cc080f21a299017ce29bf1aa&hlsid=HLS_473091
+#EXTINF:-1,MBC 2
+http://38.99.146.37:7777/MBC2_HD/MBC2_High.m3u8?user=93259&session=59c97bf496113b90ad6b4d3ad411b9e2e68b57d4ae8f02c33f71fe788f391d80a299017ce29bf1aa&hlsid=HLS_472469
 
 
 #EXTINF:-1,MBC Action
@@ -132,34 +137,47 @@ http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/chunklist_w57614010_b1
 
 
 #EXTINF:0,Fox movies
-http://38.99.146.36:7777/FoxMovies_HD/FoxMovies_High.m3u8?user=32840&session=8003b13168421f05f755ba838e77bf512894f26f888da114bdbe8028005d3dfc&hlsid=HLS_5944633
+http://38.99.146.37:7777/FoxMovies_HD/FoxMovies_High.m3u8?user=78352&session=3c0cd97e15c12c966061e9c9ea7a83f1362d98f7845d78845aaf22f63b63d7d9a299017ce29bf1aa&hlsid=HLS_472036
 
 #EXTINF:0,Fox
-http://38.99.146.36:7777/Fox_HD/Fox_High.m3u8?user=84582&session=227f8ac5eded6436bb87e3183cd431a9011d9bca16c39ffbd9382703e13e38e8&hlsid=HLS_5945621
+http://38.99.146.37:7777/Fox_HD/Fox_High.m3u8?user=11838&session=a237e1ef1975f2eb88737fe5ad6518c830df7491d1be7485cee2bf68d22da032a299017ce29bf1aa&hlsid=HLS_475044
 
 
 
-#EXTINF:-1,[COLOR yellow]»------------Drama & Movies--------------««[/COLOR]
+#EXTINF:-1,[COLOR yellow]»----------Drama & Movies------------««[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,Panorama Film
-http://38.99.146.36:7777/PanoramaFilm_HD/PanoramaFilm_High.m3u8?user=42206&session=62ab924497619f5f499be70a5b4a8342cde08d531e6c47eb19743b855e1e8899&hlsid=HLS_5931094
 
 #EXTINF:-1,Moga Comedy
-http://38.99.146.36:7777/MogaComedy_HD/MogaComedy_High.m3u8?user=60739&session=9fbbc3b7f747eaff25b169a3239c402c7c0d2bf41b599bb5dd0d6ed4497d3e98&hlsid=HLS_5930068
+http://38.99.146.37:7777/MogaComedy_HD/MogaComedy_High.m3u8?user=29496&session=c436177860ef5e2323802fb7c871a8ce499fc023500334b35029776b9c77bf65a299017ce29bf1aa&hlsid=HLS_473889
+
+
+#EXTINF:-1,cairo comedy
+http://38.99.146.37:7777/CairoComedy_HD/CairoComedy_High.m3u8?user=12585&session=0d652387e25c71193adb75d199dc7ce150b25b7767d383e550a81c53626152b2a299017ce29bf1aa&hlsid=HLS_471160
+
+#EXTINF:-1,cairo cinema
+http://38.99.146.37:7777/CairoCinema_HD/CairoCinema_HD.m3u8?user=37181&session=f71461f9ba9a5ce01b37feb0889b90953410869701a56f3cd931686c7563af2aa299017ce29bf1aa&hlsid=HLS_471422
+
+#EXTINF:0,Rotana Aflam
+http://38.99.146.37:7777/RotanaAflam_HD/RotanaAflam_High.m3u8?user=10367&session=50f11d2cd1c20ec7851280e55e1a806e159be573729b65e979a296adb0261a56a299017ce29bf1aa&hlsid=HLS_474452
+
+
+#EXTINF:0,Cima
+http://38.99.146.37:7777/Cima_HD/Cima_High.m3u8?user=30175&session=fec818ed4f26e489fe58d37d5e93ccbda22c5aca0694e9bbceb0417491b1df3aa299017ce29bf1aa&hlsid=HLS_471783
+
+#EXTINF:-1,Panorama Film
+http://38.99.146.37:7777/PanoramaFilm_HD/PanoramaFilm_High.m3u8?user=58355&session=067ba89853fd7f708349391ad83daa3ca800ce0b3c71bfaae140e8536c24940da299017ce29bf1aa&hlsid=HLS_474180
+
+#EXTINF:-1,Melody classic
+http://38.99.146.37:7777/OscarDrama_HD/OscarDrama_High.m3u8?user=28528&session=2af7619697dd34ec53daa9186b3f1d0f048c71d5875ebfec1b346c5c31c1bbc1a299017ce29bf1aa&hlsid=HLS_473570
 
 #EXTINF:-1,Funoon TV
 http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8?v=1269310610
 
 
-#EXTINF:-1,Alnahar Drama
-rtmp://50.7.180.18/elnahar_tv/nahar_dramaprofile2.stream
-
 #EXTINF:-1,Albalad Drama
 plugin://plugin.video.youtube/?action=play_video&videoid=SPHCd3iHqd0
 
-#EXTINF:-1,Alnahar
-rtmp://50.7.180.18/elnahar_tv/nahar_tvprofile2.stream
 
 #EXTINF:-1,CBC
 plugin://plugin.video.youtube/?action=play_video&videoid=ISJQ0_4PKAo
@@ -197,12 +215,13 @@ rtmp://sama-tv.net/live/samatv
 plugin://plugin.video.youtube/?action=play_video&videoid=pT3NQTWOn8A
 
 
-#EXTINF:-1,[COLOR yellow]»--------------Other---------------««[/COLOR]
+#EXTINF:-1,[COLOR yellow]»------------Other-------------««[/COLOR]
 http://0.0.0.0:1234
 
 
 #EXTINF:-1,LDC
-http://38.99.146.36:7777/LDC_HD/LDC_High.m3u8?user=45691&session=2ab75a296ef3b1b9f7d6bde3ede95a7473c48e2aec3985a53d5c769dd8bfacdca299017ce29bf1aa&hlsid=HLS_486599
+http://38.99.146.37:7777/LDC_HD/LDC_High.m3u8?user=69042&session=4b4d64ab5ba9b26d14017ce1b790e2f0cf8b5bb0302471db09c888c8d78af46aa299017ce29bf1aa&hlsid=HLS_474695
+
 #EXTINF:-1,Mtv
 http://38.99.146.37:7777/MTVLebanon_HD/MTVLebanon_HD.m3u8?user=58224&session=65517ec32d77ba12d1f0b5c073b72506a77fa3c9dd83911af759ac723b9e0f38&hlsid=HLS_18945
 
@@ -282,13 +301,14 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
 #EXTINF:-1,Al jazera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
-#EXTINF:-1,Nat geo Ad hd
-http://38.99.146.36:7777/ADNatGeo_HD/ADNatGeo_High.m3u8?user=90878&session=cfc99cf937acae08ffc6c739e72726d734b3465c84f1fa810a45fcbe0b72c5fda299017ce29bf1aa&hlsid=HLS_470861
+
+#EXTINF:-1, National Geographic
+http://38.99.146.37:7777/ADNatGeo_HD/ADNatGeo_High.m3u8?user=60482&session=856987c63790282fd8fa5e2430760bc4c8ba723f4fc0b66ae683b17fa6a6c557a299017ce29bf1aa&hlsid=HLS_476584
 #EXTINF:-1,Royal Secret
 http://94.127.209.149:8080/secretsx/playlist.m3u8
 
 
-#EXTINF:-1,[COLOR yellow]-------------------News------------------------[/COLOR]
+#EXTINF:-1,[COLOR yellow]----------------News----------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,DW Arabia
@@ -302,8 +322,6 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
 http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
 
-#EXTINF:0,ALArabia
-http://arabic.dynns.com:1935/arabic/ALArabia/chunklist_w1911567358.m3u8?wmsAuthSign
 
 #EXTINF:-1,Alarabiya
 http://46.101.9.226/60/ch1297/index.m3u8
@@ -311,9 +329,8 @@ http://46.101.9.226/60/ch1297/index.m3u8
 #EXTINF:-1,Arabya alhadath
 http://38.99.146.36:7777/AlArabiyaHadath_HD/AlArabiyaHadath_High.m3u8?user=77329&session=828842b8f376b5acd9548b5fc6c048a9bb1ad59c82e932cc6d811aa08f5155a8a299017ce29bf1aa&hlsid=HLS_489003
 
-#EXTINF:-1,Sky news
-
-http://38.99.146.36:7777/SkyNews_HD/SkyNews_High.m3u8?user=53574&session=1c62392a322699f79b005ed5cbe357cd14a7c9effda35beb9c14eca934a87ae3a299017ce29bf1aa&hlsid=HLS_472034
+#EXTINF:-1,Sky news arabia
+http://38.99.146.37:7777/SkyNews_HD/SkyNews_High.m3u8?user=35914&session=0a5cbb613f3d250c7ebc78d2697d61d2081c07478807e0e5a45d4f4fe65057dea299017ce29bf1aa&hlsid=HLS_475872
 
 #EXTINF:0,Aljazeera
 plugin://plugin.video.youtube/?action=play_video&videoid=n5M3EbG9ncU
