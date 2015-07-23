@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR yellow]»»-- Updated 22/07/2015 --««[/COLOR]
+#EXTINF:-1,[COLOR yellow]»»-- Updated 23/07/2015 --««[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,[COLOR yellow]»»------------Cartoon----------------««[/COLOR]
@@ -102,7 +102,7 @@ rtmp://38.96.175.16/live/MarinaFM2
 http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
 
 
-#EXTINF:-1,[COLOR yellow]»»----------------MBC-----------------««[/COLOR]
+#EXTINF:-1,[COLOR yellow]»»--------------MBC---------------««[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,mbc1
@@ -207,9 +207,42 @@ rtmp://82.137.248.21/Drama?gmswf=1269304399/DramaLive3
 #EXTINF:-1,Al dunia
 rtmp://sama-tv.net/live/samatv
 
+#EXTINF:-1,[COLOR yellow]»--------Algeriee-------««[/COLOR]
+http://0.0.0.0:1234
 
-#EXTINF:-1,Rotana Khaliji
-plugin://plugin.video.youtube/?action=play_video&videoid=pT3NQTWOn8A
+
+
+#EXTINF:-1,Algerie
+http://38.99.146.37:7777/CanalAlgerie_HD/CanalAlgerie_HD.m3u8?user=84100&session=41049762ac57753561b8c73f39c8e8783cb2073d4d9ad144c91197df2d98037aa299017ce29bf1aa&hlsid=HLS_703763
+
+#EXTINF:-1,Algerie 3
+http://38.99.146.37:7777/Thalitha_HD/Thalitha_HD.m3u8?user=10577&session=fe4143270be5c86ca4a53a4fece7bfb4c097b301ca62a574d6d067eadf5bb021a299017ce29bf1aa&hlsid=HLS_704368
+
+
+#EXTINF:-1,Lindex
+http://38.99.146.37:7777/WeladElBalad_HD/WeladElBalad_High.m3u8?user=54773&session=dc8bd451948f10d2d5d15a2e025c796a9b013e94c051b1f4c22f8b6aa5bbcd28a299017ce29bf1aa&hlsid=HLS_705299
+
+#EXTINF:-1,Echorouk
+http://live.echoroukonline.com/live/EchoroukTV_SD/chunklist.m3u8
+
+#EXTINF:-1,watan
+http://streaming.tootvs.com:1935/8018/8018/chunklist_w2066104408.m3u8
+
+
+#EXTINF:-1,Bilad
+http://strfla13.streamakaci.com/elbilad/elbilad.stream/chunklist_w1698520685.m3u8?v=2920596208
+
+#EXTINF:-1,Magaribia
+http://livestream-f.akamaihd.net/i/7861901_3698527_38ba983d_1@30340/index_696_av-p.m3u8?sd=10&dw=100&rebase=on
+
+
+#EXTINF:-1,Alnahar
+http://5.135.135.126/endz/EnnaharTV_SD/chunklist.m3u8?v=2920596208
+
+
+
+
+
 
 
 #EXTINF:-1,[COLOR yellow]»------------Other-------------««[/COLOR]
