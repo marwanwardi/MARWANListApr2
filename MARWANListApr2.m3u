@@ -149,7 +149,7 @@ http://0.0.0.0:1234
 http://38.99.146.37:7777/MogaComedy_HD/MogaComedy_High.m3u8?user=29496&session=c436177860ef5e2323802fb7c871a8ce499fc023500334b35029776b9c77bf65a299017ce29bf1aa&hlsid=HLS_473889
 
 
-#EXTINF:-1,cairo comedy
+#EXTINF:-1,Time comedy
 http://38.99.146.37:7777/CairoComedy_HD/CairoComedy_High.m3u8?user=12585&session=0d652387e25c71193adb75d199dc7ce150b25b7767d383e550a81c53626152b2a299017ce29bf1aa&hlsid=HLS_471160
 
 #EXTINF:-1,cairo cinema
@@ -256,7 +256,7 @@ http://38.99.146.37:7777/LDC_HD/LDC_High.m3u8?user=69042&session=4b4d64ab5ba9b26
 http://38.99.146.37:7777/MTVLebanon_HD/MTVLebanon_HD.m3u8?user=58224&session=65517ec32d77ba12d1f0b5c073b72506a77fa3c9dd83911af759ac723b9e0f38&hlsid=HLS_18945
 
 #EXTINF:-1,On tv
-rtmp://50.7.180.18/elONTV?gmswf=1591696272/ontvlive_profile2.stream
+
 
 #EXTINF:-1,Mekka
 rtmp://streamer11.elementssys.com//mecca
@@ -276,8 +276,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=QEpeL3BD04s
 #EXTINF:-1,Aldiwan 1
 plugin://plugin.video.youtube/?action=play_video&videoid=NUv6tv89SIk
 
-#EXTINF:0,MEDI 1 Sat
-http://162.212.176.107:1935/medi_1_sat/globaltv-medi_1_sat.stream/gmswf.m3u8
 
 #EXTINF:0,Libya TV
 http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_,264,528,828,.m3u8
@@ -293,11 +291,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 rtmp://64.251.14.168/jorlive/jrtv
 
 
-#EXTINF:-1,Nessma 
-rtmp://41.231.53.38/thd//nessma
-
-#EXTINF:-1,Hanabaal
-rtmp://41.231.53.38/thd//hannibal
 
 #EXTINF:-1,Maan
 http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
@@ -306,8 +299,6 @@ http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
 http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 
 
-#EXTINF:-1,LBC Europe
-rtmp://162.212.176.107/lbc_europe/globaltv-lbc_europe.stream
 
 #EXTINF:-1,[COLOR yellow]---------------Nour Sat---------------[/COLOR]
 https://svs.itworkscdn.net/nour4satlive/livestream/chunklist_w1044896853.m3u8
@@ -322,7 +313,7 @@ https://svs.itworkscdn.net/nour7satlive/livestream/chunklist_w263014800.m3u8
 https://svs.itworkscdn.net/nour3satlive/livestream/chunklist_w1981215788.m3u8
 
 
-#EXTINF:-1,[COLOR yellow]---------------documentary------------[/COLOR]
+#EXTINF:-1,[COLOR yellow]-------------documentary------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,KTV AL ARABI 
@@ -332,10 +323,9 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
 
-#EXTINF:-1, National Geographic
+#EXTINF:-1,National Geographic
 http://38.99.146.37:7777/ADNatGeo_HD/ADNatGeo_High.m3u8?user=60482&session=856987c63790282fd8fa5e2430760bc4c8ba723f4fc0b66ae683b17fa6a6c557a299017ce29bf1aa&hlsid=HLS_476584
-#EXTINF:-1,Royal Secret
-http://94.127.209.149:8080/secretsx/playlist.m3u8
+
 
 
 #EXTINF:-1,[COLOR yellow]----------------News----------------[/COLOR]
@@ -348,13 +338,7 @@ http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 #EXTINF:-1,Al Hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
-#EXTINF:-1,Russia Alyaum 
 
-http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
-
-
-#EXTINF:-1,Alarabiya
-http://46.101.9.226/60/ch1297/index.m3u8
 
 #EXTINF:-1,Arabya alhadath
 http://38.99.146.36:7777/AlArabiyaHadath_HD/AlArabiyaHadath_High.m3u8?user=77329&session=828842b8f376b5acd9548b5fc6c048a9bb1ad59c82e932cc6d811aa08f5155a8a299017ce29bf1aa&hlsid=HLS_489003
