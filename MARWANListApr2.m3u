@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR yellow]»»-- Updated 29/07/2015 --««[/COLOR]
+#EXTINF:-1,[COLOR yellow]»»-- Updated 30/07/2015 --««[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,[COLOR yellow]»»------------Cartoon----------------««[/COLOR]
@@ -147,32 +147,39 @@ http://38.99.146.36:7777/Fox_HD/Fox_High.m3u8?user=93353&session=865e380098ab851
 #EXTINF:-1,[COLOR yellow]»----------Drama & Movies------------««[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1,Funoon TV
+http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8?v=1269310610
+
 
 #EXTINF:-1,Moga Comedy
 http://38.99.146.36:7777/MogaComedy_HD/MogaComedy_High.m3u8?user=28247&session=b6c43e95bbfe15c00915e06d4af8d2500eae06238cd0c49ab6fdbd884846dd77a299017ce29bf1aa&hlsid=HLS_2232061
 
 
 #EXTINF:-1,Time comedy
-http://38.99.146.37:7777/CairoComedy_HD/CairoComedy_High.m3u8?user=12585&session=0d652387e25c71193adb75d199dc7ce150b25b7767d383e550a81c53626152b2a299017ce29bf1aa&hlsid=HLS_471160
+
+
 
 #EXTINF:-1,cairo cinema
-http://38.99.146.37:7777/CairoCinema_HD/CairoCinema_HD.m3u8?user=37181&session=f71461f9ba9a5ce01b37feb0889b90953410869701a56f3cd931686c7563af2aa299017ce29bf1aa&hlsid=HLS_471422
+
+
 
 #EXTINF:0,Rotana Aflam
-http://38.99.146.37:7777/RotanaAflam_HD/RotanaAflam_High.m3u8?user=10367&session=50f11d2cd1c20ec7851280e55e1a806e159be573729b65e979a296adb0261a56a299017ce29bf1aa&hlsid=HLS_474452
+
 
 
 #EXTINF:0,Cima
-http://38.99.146.37:7777/Cima_HD/Cima_High.m3u8?user=30175&session=fec818ed4f26e489fe58d37d5e93ccbda22c5aca0694e9bbceb0417491b1df3aa299017ce29bf1aa&hlsid=HLS_471783
+
+
 
 #EXTINF:-1,Panorama Film
-http://38.99.146.37:7777/PanoramaFilm_HD/PanoramaFilm_High.m3u8?user=58355&session=067ba89853fd7f708349391ad83daa3ca800ce0b3c71bfaae140e8536c24940da299017ce29bf1aa&hlsid=HLS_474180
+
 
 #EXTINF:-1,Melody classic
-http://38.99.146.37:7777/OscarDrama_HD/OscarDrama_High.m3u8?user=28528&session=2af7619697dd34ec53daa9186b3f1d0f048c71d5875ebfec1b346c5c31c1bbc1a299017ce29bf1aa&hlsid=HLS_473570
 
-#EXTINF:-1,Funoon TV
-http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8?v=1269310610
+
+
+
+
 
 
 #EXTINF:-1,Albalad Drama
@@ -216,14 +223,15 @@ http://0.0.0.0:1234
 
 
 #EXTINF:-1,Algerie
-http://38.99.146.37:7777/CanalAlgerie_HD/CanalAlgerie_HD.m3u8?user=84100&session=41049762ac57753561b8c73f39c8e8783cb2073d4d9ad144c91197df2d98037aa299017ce29bf1aa&hlsid=HLS_703763
 
-#EXTINF:-1,Algerie 3
-http://38.99.146.37:7777/Thalitha_HD/Thalitha_HD.m3u8?user=10577&session=fe4143270be5c86ca4a53a4fece7bfb4c097b301ca62a574d6d067eadf5bb021a299017ce29bf1aa&hlsid=HLS_704368
 
+
+#EXTINF:-1,Algerie 4
+http://37.187.254.104/origin01/amlst:tv-tamazight/chunklist_w110557435_b800000.m3u8?dar=sd&t=18ddf1b11ff0fbb24e3ecbecf4748ff821784cd760dd9e1a9ec2ae552e15361c0ff6d6c8ada2fd5151e1fe94a153608dfd6087891f21db550034a4e57f3be5911ac5589934e214a33d270fe258c016ad713140a3de5e6152b50393c07e28b6d8ca71a38f5e5fdfb5253ac7deae8892c71df2918f939b88dc1f6ae980a867e112b5f6e99443747cf2
 
 #EXTINF:-1,Lindex
-http://38.99.146.37:7777/WeladElBalad_HD/WeladElBalad_High.m3u8?user=54773&session=dc8bd451948f10d2d5d15a2e025c796a9b013e94c051b1f4c22f8b6aa5bbcd28a299017ce29bf1aa&hlsid=HLS_705299
+
+
 
 #EXTINF:-1,Echorouk
 http://live.echoroukonline.com/live/EchoroukTV_SD/chunklist.m3u8
@@ -235,8 +243,8 @@ http://streaming.tootvs.com:1935/8018/8018/chunklist_w2066104408.m3u8
 #EXTINF:-1,Bilad
 http://strfla13.streamakaci.com/elbilad/elbilad.stream/chunklist_w1698520685.m3u8?v=2920596208
 
+
 #EXTINF:-1,Magaribia
-http://livestream-f.akamaihd.net/i/7861901_3698527_38ba983d_1@30340/index_696_av-p.m3u8?sd=10&dw=100&rebase=on
 
 
 #EXTINF:-1,Alnahar
@@ -253,12 +261,13 @@ http://0.0.0.0:1234
 
 
 #EXTINF:-1,LDC
-http://38.99.146.37:7777/LDC_HD/LDC_High.m3u8?user=69042&session=4b4d64ab5ba9b26d14017ce1b790e2f0cf8b5bb0302471db09c888c8d78af46aa299017ce29bf1aa&hlsid=HLS_474695
+
+
 
 #EXTINF:-1,Mtv
 http://38.99.146.36:7777/MTVLebanon_HD/MTVLebanon_HD.m3u8?user=55558&session=8df1cc9bd4fad9a3caafe8300ff6b04411a27d7c3f218b46242bef2f9e3c5d1ca299017ce29bf1aa&hlsid=HLS_2230303
 
-#EXTINF:-1,On tv
+
 
 
 #EXTINF:-1,Mekka
