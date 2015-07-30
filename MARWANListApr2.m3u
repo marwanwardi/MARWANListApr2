@@ -80,7 +80,8 @@ http://0.0.0.0:1234
 
 
 #EXTINF:0,FATAFEAT
-http://38.99.146.37:7777/Fatafeat_HD/Fatafeat_HD.m3u8?user=42799&session=554d4d7b0b7319193be5bfbce745fef53af64832b6fa02fafc1d541385d4625c&hlsid=HLS_15252
+http://38.99.146.36:7777/Fatafeat_HD/Fatafeat_HD.m3u8?user=79781&session=4b6bc47de584493d44d2ef6088a346ecb9bb6c985cfb564a0147213d33dd6216a299017ce29bf1aa&hlsid=HLS_2429631
+
 
 #EXTINF:-1,CBC Sofra
 plugin://plugin.video.youtube/?action=play_video&videoid=Sk-9V84qfZ8
@@ -111,10 +112,10 @@ http://38.99.146.36:7777/MBC1_HD/MBC1_High.m3u8?user=67641&session=ee9b3bf4bea94
 
 
 #EXTINF:-1,mbc masr
-http://38.99.146.37:7777/MBCMaser_HD/MBCMaser_High.m3u8?user=11186&session=047a6432d38d3ddbf41f5d5e4602ab9ed668c52b265243dbbec24c6105da35afa299017ce29bf1aa&hlsid=HLS_1980773
+http://38.99.146.36:7777/MBCMaser_HD/MBCMaser_High.m3u8?user=61213&session=350ab5c2a0a9089a322a4b78ac50dea4166d7864a91e86c40e383b409cabd99da299017ce29bf1aa&hlsid=HLS_2426696
 
-
-
+#EXTINF:-1,mbc masr2
+http://38.99.146.36:7777/MBCMasrPlus2_HD/MBCMasrPlus2_High.m3u8?user=29062&session=fb0d95a192b3efef1890a7e1249cd1f424946d6e0624470bb1de55c32994616fa299017ce29bf1aa&hlsid=HLS_2428809
 
 #EXTINF:-1,MBC MAX
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
@@ -123,8 +124,10 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
 #EXTINF:-1,MBC 2
-http://38.99.146.37:7777/MBC2_HD/MBC2_High.m3u8?user=93259&session=59c97bf496113b90ad6b4d3ad411b9e2e68b57d4ae8f02c33f71fe788f391d80a299017ce29bf1aa&hlsid=HLS_472469
+http://38.99.146.36:7777/MBC2_HD/MBC2_High.m3u8?user=90840&session=c30c1c150199c577a7e6916c3dc74bdf9d004b847e26bc1d58cc7e124620afb3a299017ce29bf1aa&hlsid=HLS_2424744
 
+#EXTINF:-1,MBC 4
+http://38.99.146.36:7777/MBC4_HD/MBC4_High.m3u8?user=23682&session=02cdeeda0122aba1682a8f4150a0a107ca9842d27263967b31b385b5668e52f4a299017ce29bf1aa&hlsid=HLS_2432395
 
 #EXTINF:-1,MBC Action
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
@@ -134,16 +137,15 @@ http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/chunklist_w57614010_b1
 
 
 #EXTINF:0,Fox movies
-http://38.99.146.37:7777/FoxMovies_HD/FoxMovies_High.m3u8?user=78352&session=3c0cd97e15c12c966061e9c9ea7a83f1362d98f7845d78845aaf22f63b63d7d9a299017ce29bf1aa&hlsid=HLS_472036
+http://38.99.146.36:7777/FoxMovies_HD/FoxMovies_High.m3u8?user=93502&session=462f282add1d3b1cb33a670ceaa76d222e83345710a2e1a1388e9c50b65f01dba299017ce29bf1aa&hlsid=HLS_2430528
+
 
 #EXTINF:0,Fox
-http://38.99.146.37:7777/Fox_HD/Fox_High.m3u8?user=11838&session=a237e1ef1975f2eb88737fe5ad6518c830df7491d1be7485cee2bf68d22da032a299017ce29bf1aa&hlsid=HLS_475044
-
+http://38.99.146.36:7777/Fox_HD/Fox_High.m3u8?user=93353&session=865e380098ab851a99b3c0dcc8e1842294257fcd2de1525c65184caf9c1e7a12a299017ce29bf1aa&hlsid=HLS_2431691
 
 
 #EXTINF:-1,[COLOR yellow]»----------Drama & Movies------------««[/COLOR]
 http://0.0.0.0:1234
-
 
 
 #EXTINF:-1,Moga Comedy
