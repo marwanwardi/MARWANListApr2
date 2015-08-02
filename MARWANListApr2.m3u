@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR yellow]»»-- Updated 30/07/2015 --««[/COLOR]
+#EXTINF:-1,[COLOR yellow]»»-- Updated 02/08/2015 --««[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,[COLOR yellow]»»------------Cartoon----------------««[/COLOR]
@@ -91,7 +91,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=Sk-9V84qfZ8
 http://0.0.0.0:1234
 
 #EXTINF:-1,ROTANA 
-http://38.99.146.37:7777/RotanaMusic_HD/RotanaMusic_HD.m3u8?user=93719&session=d8f0d96011b3cd70ff417f71d76c70246d27ad56695eae5e094915f7b807475da299017ce29bf1aa&hlsid=HLS_475661
+http://38.99.146.36:7777/RotanaMusic_HD/RotanaMusic_HD.m3u8?user=15308&session=5d11d1d33280e030be6ec7258a81bf4e18995071077fada5aa7d5ae8af0293df&hlsid=HLS_4601914
+
 
 #EXTINF:-1,ROTANA clip
 http://38.99.146.37:7777/RotanaClip_HD/RotanaClip_High.m3u8?user=71512&session=8d0187d05b78b9274b8a80b6693bbf0e6f17b93dbb1d57e7cc9582e35f5f66f1a299017ce29bf1aa&hlsid=HLS_475440
@@ -104,7 +105,7 @@ rtmp://38.96.175.16/live/MarinaFM2
 http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
 
 
-#EXTINF:-1,[COLOR yellow]»»--------------MBC---------------««[/COLOR]
+#EXTINF:-1,[COLOR yellow]»»-------------MBC-------------««[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,mbc1
@@ -112,13 +113,13 @@ http://38.99.146.36:7777/MBC1_HD/MBC1_High.m3u8?user=67641&session=ee9b3bf4bea94
 
 
 #EXTINF:-1,mbc masr
-http://38.99.146.36:7777/MBCMaser_HD/MBCMaser_High.m3u8?user=61213&session=350ab5c2a0a9089a322a4b78ac50dea4166d7864a91e86c40e383b409cabd99da299017ce29bf1aa&hlsid=HLS_2426696
+http://38.99.146.36:7777/MBCMaser_HD/MBCMaser_High.m3u8?user=3101&session=84ac8489410330eb8995d5ca8dadf4e0a947d3b4364740f0cd78ababaf7cc5b6&hlsid=HLS_4600684
 
 #EXTINF:-1,mbc masr2
 http://38.99.146.36:7777/MBCMasrPlus2_HD/MBCMasrPlus2_High.m3u8?user=29062&session=fb0d95a192b3efef1890a7e1249cd1f424946d6e0624470bb1de55c32994616fa299017ce29bf1aa&hlsid=HLS_2428809
 
 #EXTINF:-1,MBC MAX
-http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+http://38.99.146.36:7777/MBCMax_HD/MBCMax_High.m3u8?user=19960&session=bd54d2ec76a472e5cfeb964e9bbc8581e07366e2d99b5cc665d234b194f5f367&hlsid=HLS_4607946
 
 #EXTINF:-1,MBC BOLLYWOOD
 http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
@@ -127,7 +128,7 @@ http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 http://38.99.146.36:7777/MBC2_HD/MBC2_High.m3u8?user=90840&session=c30c1c150199c577a7e6916c3dc74bdf9d004b847e26bc1d58cc7e124620afb3a299017ce29bf1aa&hlsid=HLS_2424744
 
 #EXTINF:-1,MBC 4
-http://38.99.146.36:7777/MBC4_HD/MBC4_High.m3u8?user=23682&session=02cdeeda0122aba1682a8f4150a0a107ca9842d27263967b31b385b5668e52f4a299017ce29bf1aa&hlsid=HLS_2432395
+http://38.99.146.36:7777/MBC4_HD/MBC4_High.m3u8?user=11720&session=c5c30ca9587c4bc8b1a39928b860e53780a0d4d8ce1fc6bc20a3358c432f7293&hlsid=HLS_4602863
 
 #EXTINF:-1,MBC Action
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
@@ -155,24 +156,21 @@ http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanf
 http://38.99.146.36:7777/MogaComedy_HD/MogaComedy_High.m3u8?user=28247&session=b6c43e95bbfe15c00915e06d4af8d2500eae06238cd0c49ab6fdbd884846dd77a299017ce29bf1aa&hlsid=HLS_2232061
 
 
-#EXTINF:-1,Time comedy
-
-
 
 #EXTINF:-1,cairo cinema
-
+http://38.99.146.36:7777/CairoCinema_HD/CairoCinema_HD.m3u8?user=11551&session=191be84632c2d76195ebcc75aaa26ce0b3e22d198e164d494156a4f66846e835&hlsid=HLS_4606496
 
 
 #EXTINF:0,Rotana Aflam
-
+http://38.99.146.36:7777/RotanaAflam_HD/RotanaAflam_High.m3u8?user=66065&session=9b7a7175bfc598410f341400689c7aae2ea1b444c951e85f2e78c2e49cdb0545&hlsid=HLS_4604393
 
 
 #EXTINF:0,Cima
-
+http://38.99.146.36:7777/Cima_HD/Cima_High.m3u8?user=33039&session=fe76b58236984d8231a9f30fd2f056c8bb000825564bb1fa22a3b6c7aeb8b4f9&hlsid=HLS_4607332
 
 
 #EXTINF:-1,Panorama Film
-
+http://38.99.146.36:7777/PanoramaFilm_HD/PanoramaFilm_High.m3u8?user=92042&session=20073b508603c8fa2f66969d6d15dfe7134a222d98aa068f28463e028a204c0f&hlsid=HLS_4605204
 
 #EXTINF:-1,Melody classic
 
