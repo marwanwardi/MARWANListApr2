@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR yellow]»»-- Updated 02/08/2015 --««[/COLOR]
+#EXTINF:-1,[COLOR yellow]»»-- Updated 03/08/2015 --««[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,[COLOR yellow]»»------------Cartoon----------------««[/COLOR]
@@ -221,14 +221,14 @@ http://0.0.0.0:1234
 
 
 #EXTINF:-1,Algerie
-
+http://38.99.146.36:7777/CanalAlgerie_HD/CanalAlgerie_HD.m3u8?user=40295&session=ff5a1cf90fc8a0bec8c8901a0bc1e1800943ac69734fcd134a609b33e3021ead&hlsid=HLS_5459944
 
 
 #EXTINF:-1,Algerie 4
 http://37.187.254.104/origin01/amlst:tv-tamazight/chunklist_w110557435_b800000.m3u8?dar=sd&t=18ddf1b11ff0fbb24e3ecbecf4748ff821784cd760dd9e1a9ec2ae552e15361c0ff6d6c8ada2fd5151e1fe94a153608dfd6087891f21db550034a4e57f3be5911ac5589934e214a33d270fe258c016ad713140a3de5e6152b50393c07e28b6d8ca71a38f5e5fdfb5253ac7deae8892c71df2918f939b88dc1f6ae980a867e112b5f6e99443747cf2
 
 #EXTINF:-1,Lindex
-
+http://38.99.146.36:7777/WeladElBalad_HD/WeladElBalad_High.m3u8?user=64462&session=f8a54d394e8c09545a02ded978241bde2d109a10492cf050545542bf0eb8d0a9&hlsid=HLS_5459139
 
 
 #EXTINF:-1,Echorouk
@@ -251,15 +251,12 @@ http://5.135.135.126/endz/EnnaharTV_SD/chunklist.m3u8?v=2920596208
 
 
 
-
-
-
 #EXTINF:-1,[COLOR yellow]»------------Other-------------««[/COLOR]
 http://0.0.0.0:1234
 
 
 #EXTINF:-1,LDC
-
+http://38.99.146.36:7777/LDC_HD/LDC_High.m3u8?user=69932&session=8cd980c241d9d076ae9d8fd4a8e63bb72d6859d39a2caf77880017d42da75f34&hlsid=HLS_5458218
 
 
 #EXTINF:-1,Mtv
@@ -336,6 +333,8 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 #EXTINF:-1, National Geographic
 http://38.99.146.36:7777/ADNatGeo_HD/ADNatGeo_High.m3u8?user=96767&session=8dcebed48685c9ad4ffd3026f090976c98c3c8600f7ae68e4506db93d911b2bfa299017ce29bf1aa&hlsid=HLS_2229635
 
+#EXTINF:-1,CCTV Arabic
+http://38.99.146.36:7777/CCTVArabia_HD/CCTVArabia_HD.m3u8?user=10913&session=8b654af48ae19c4d5c8496d368c485f4cdea402e57bb4fa79c5579a00cf510a5&hlsid=HLS_5455282
 
 
 #EXTINF:-1,[COLOR yellow]----------------News----------------[/COLOR]
