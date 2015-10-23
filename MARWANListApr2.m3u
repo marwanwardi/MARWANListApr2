@@ -1,7 +1,76 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR yellow]»»-- Updated 09/08/2015 --««[/COLOR]
+#EXTINF:-1,[COLOR yellow]»»-- Updated 23/10/2015 --««[/COLOR]
 http://0.0.0.0:1234
+
+#EXTINF:-1, Syria Aloula
+http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
+#EXTINF:-1, Syria Drama
+http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+#EXTINF:-1, Syria
+http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+#EXTINF:-1,KTV 2
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
+#EXTINF:-1,KTV ARABE
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
+#EXTINF:-1,KTV ETRAA
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch4.sdp
+#EXTINF:-1,KTV PLUS
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch6.sdp
+#EXTINF:-1,Kuwait
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp
+#EXTINF:-1, Alikhbaria Syria 1
+rtmp://82.137.248.16/Snews/SnewsLive1
+#EXTINF:-1, Alikhbaria Syria 2
+http://82.137.248.16:1935/Snews/SnewsLive1/gmswf.m3u8
+#EXTINF:-1, Alikhbaria Syria 3
+http://82.137.248.16:1935/Snews/SnewsLive3/BratuMarian.m3u8
+#EXTINF:-1, Alikhbaria Syria 4
+http://82.137.248.16:1935/Snews/SnewsLive3/HasBahCa.m3u8
+#EXTINF:-1,Syria
+http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
+#EXTINF:-1, Syria
+http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+#EXTINF:-1,Syria
+http://82.137.248.16:1935/Sat/SatLive2/HasBahCa.m3u8
+#EXTINF:-1, SYRIA Aloula 1
+http://82.137.248.21:1935/Aloula/AloulaLive3/HasBahCa.m3u8
+#EXTINF:-1, SYRIA Aloula 2
+http://82.137.248.21:1935/Aloula/AloulaLive3/BratuMarian.m3u8
+#EXTINF:-1, SYRIA Aloula 3
+http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
+#EXTINF:-1, Syria TV 2
+http://82.137.248.16:1935/Sat/SatLive2/HasBahCa.m3u8
+#EXTINF:-1, Syria TV 2
+http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
+#EXTINF:-1, Syria TV 2
+http://82.137.248.16:1935/Sat/SatLive2/BratuMarian.m3u8
+#EXTINF:-1, Syria TV 3
+http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+#EXTINF:-1,Syrian Educational TV
+rtmp://82.137.248.16/Snews/SnewsLive1
+#EXTINF:-1, SYRIA DRAMA 1
+http://82.137.248.21:1935/Drama/DramaLive1/playlist.m3u8
+#EXTINF:-1, SYRIA DRAMA 2
+http://82.137.248.21:1935/Drama/DramaLive3/HasBahCa.m3u8
+#EXTINF:-1, SYRIA DRAMA 3
+http://82.137.248.21:1935/Drama/DramaLive3/BratuMarian.m3u8
+#EXTINF:-1, SYRIA DRAMA 4
+http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+#EXTINF:-1, SYRIA NOUR 1
+http://82.137.248.21:1935/Nour/NourLive2/HasBahCa.m3u8
+#EXTINF:-1, SYRIA NOUR 2
+http://82.137.248.21:1935/Nour/NourLive2/BratuMarian.m3u8
+#EXTINF:-1, SYRIA NOUR 3
+http://82.137.248.21:1935/Nour/NourLive1/playlist.m3u8
+#EXTINF:-1, SYRIA NOUR 4
+rtmp://82.137.248.21/Nour?gmswf=1481251590/NourLive3
+#EXTINF:-1, SYRIA SAMA
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+#EXTINF:-1, Talaqie
+rtmp://82.137.248.20/Talaqie?gmswf=3160874596/TalaqieLive3
+#EXTINF:-1, Talaqie
+rtmp://82.137.248.20/Talaqie/TalaqieLive2
 
 #EXTINF:-1,[COLOR yellow]»»------------Cartoon----------------««[/COLOR]
 http://0.0.0.0:1234
