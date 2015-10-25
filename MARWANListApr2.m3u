@@ -2,23 +2,7 @@
 
 #EXTINF:-1,[COLOR yellow]»»-- Updated 23/10/2015 --««[/COLOR]
 http://0.0.0.0:1234
-#EXTM3U 
-#EXTINF:-1,2M 
-http://185.28.22.42:5000/STARTIMES/STARTIMES/1.ch 
-#EXTINF:-1,Alaoulainter 
-http://185.28.22.42:5000/STARTIMES/STARTIMES/36.ch 
-#EXTINF:-1,Arriadia 
-http://185.28.22.42:5000/STARTIMES/STARTIMES/37.ch 
-#EXTINF:-1,Almaghribya 
-http://185.28.22.42:5000/STARTIMES/STARTIMES/38.ch 
-#EXTINF:-1,Arrabiaa 
-http://185.28.22.42:5000/STARTIMES/STARTIMES/40.ch 
-#EXTINF:-1,Assadissa 
-http://185.28.22.42:5000/STARTIMES/STARTIMES/41.ch 
-#EXTINF:-1,Alsunnah 
-http://185.28.22.42:5000/STARTIMES/STARTIMES/4.ch 
-#EXTINF:-1,Alaoulalayoune 
-http://185.28.22.42:5000/STARTIMES/STARTIMES/39.ch 
+
 #EXTM3U
 #EXTINF:0,#EXTINF:-1,Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8
@@ -42,30 +26,13 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:0,#EXTINF:-1,MBC_BOLLYWOOD (stream 2)
 rtmp://63.237.48.3:1935/live/MBC_BOLLYWOOD
-#EXTINF:0,#EXTINF:-1,CBC
+#EXTINF:0,CBC
 http://185.5.222.231:4242/bysid/5108
-#EXTINF:0,#EXTINF:-1,Fox Movies
+#EXTINF:0,Fox Movies
 http://185.5.222.227:4242/bysid/5608
-#EXTINF:0,#EXTINF:-1,Fox
+#EXTINF:0,Fox
 http://185.5.222.227:4242/bysid/5603
-#EXTINF:0,#EXTINF:-1, Almas TV
-http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8
-#EXTINF:0,#EXTINF:-1, Merci TV
-http://63.237.48.23/ios/MERCI_TV/MERCI_TV.m3u8
-#EXTINF:0,#EXTINF:-1, AAA Family
-http://63.237.48.23/ios/AAA_FAMILY/AAA_FAMILY.m3u8
-#EXTINF:0,#EXTINF:-1, Gem Mifa
-http://63.237.48.23/ios/GEM_MIFA/GEM_MIFA.m3u8
-#EXTINF:0,#EXTINF:-1, TV P
-http://63.237.48.23/ios/TVP/TVP.m3u8
-#EXTINF:0,#EXTINF:-1, TM TV
-http://63.237.48.23/ios/MI_TV/MI_TV.m3u8
-#EXTINF:0,#EXTINF:-1, Face 2 Face
-http://63.237.48.23/ios/FACE2/FACE2.m3u8
-#EXTINF:0,#EXTINF:-1,Bollywood Flix
-http://admin.8packlive.tulix.tv/hls/bollywoodflix/bollywoodflix.m3u8
-#EXTINF:0,#EXTINF:-1,Bollywood Movies
-http://admin.8packlive.tulix.tv/hls/bollywoodmovies/bollywoodmovies.m3u8
+
 #EXTINF:0,#EXTINF:-1,Funoon TV
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
 #EXTINF:0,#EXTINF:-1,AL ARABIA TV
