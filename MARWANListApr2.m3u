@@ -1,7 +1,86 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR yellow]»»-- Updated 25/10/2015 --««[/COLOR]
+#EXTINF:-1,[COLOR yellow]»»-- Updated 30/10/2015 --««[/COLOR]
 http://0.0.0.0:1234
+
+#EXTM3U
+
+#EXTINF:0,SD Alsharq
+http://hls1.livestreamingcdn.com/livecdn753/livestreaming/chunklist.m3u8
+
+#EXTINF:0,Al Mass
+rtmp://edge.streamspot.com/live2/almastea1d
+
+#EXTINF:0,MEA Tv
+http://livestream-f.akamaihd.net/5943550_2507246_6d3e64a3_1_10095@124877?v=3.6.0&fp=WIN%2019,0,0,226&r=LHMRB&g=WFQIKUFEWLLE
+
+#EXTINF:-1,Al Sharqiya
+rtmp://ns8.indexforce.com/home/mystream
+
+#EXTINF:-1,Al Sharqiya_news
+rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+
+
+#EXTINF:0,Al Baghdadia
+http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
+
+#EXTINF:0,Al-Baghdadia 2
+http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
+
+#EXTINF:-1,Dijla
+rtmp://stream.joinvisions.net/dij//dij
+
+
+#EXTINF:0,Baghdad tv
+http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
+
+#EXTINF:0,Hona Baghdad
+rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad
+
+
+
+#EXTINF:0,Funoon
+http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8?v=1269310610
+
+#EXTINF:-1,Dubai Drama
+http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w7946196_b1200000.m3u8
+
+
+#EXTINF:-1, Dubai TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w1042183914_b1200000.m3u8
+
+#EXTINF:-1,Sama Dubai TV 
+http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/chunklist_w517203350_b1200000.m3u8
+
+#EXTINF:-1,Noor Dubai TV 
+http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w157951105_b1200000.m3u8
+
+#EXTINF:-1,QURAAN
+rtmp://208.75.224.165:1935/map-alquraan/mp4:map-alquraan.stream 
+
+
+#EXTINF:-1,Al hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+
+#EXTINF:-1,BBC
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+
+
+
+#EXTINF:-1,arabya alhadath
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+
+
+#EXTINF:-1,Aljazeera Documents
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+
+
+#EXTINF:-1,AL Sharqiya News
+rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+
+
+
+
 
 #EXTM3U
 #EXTINF:0,#EXTINF:-1,Dubai TV
@@ -246,7 +325,7 @@ http://0.0.0.0:1234
 
 
 #EXTINF:0,FATAFEAT
-http://38.99.146.36:7777/Fatafeat_HD/Fatafeat_HD.m3u8?user=87166&session=d00ca934a426dcf099abe0d2d833b27f4a4b0cd7034d155d33fd505a111178b6&hlsid=HLS_101828
+
 
 #EXTINF:-1,CBC Sofra
 plugin://plugin.video.youtube/?action=play_video&videoid=Sk-9V84qfZ8
@@ -259,7 +338,6 @@ http://0.0.0.0:1234
 http://38.99.146.36:7777/RotanaMusic_HD/RotanaMusic_HD.m3u8?user=98936&session=2cc34b9a34e972025dd36dbd03e2714e5c5e624412a797cd3bf5eceb6dfb4871&hlsid=HLS_136704
 
 #EXTINF:-1,ROTANA clip
-http://38.99.146.36:7777/RotanaClip_HD/RotanaClip_High.m3u8?user=1931&session=34e15ab1a189c03c1c520db481ccbed3092c043e479bc24f4120f901770ddfcc&hlsid=HLS_137484
 
 #EXTINF:-1,Marina FM TV
 rtmp://38.96.175.16/live/MarinaFM2
@@ -303,12 +381,6 @@ http://38.99.146.36:7777/MBCAction_HD/MBCAction_High.m3u8?user=60016&session=d5f
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/chunklist_w57614010_b1800000.m3u8
 
 
-#EXTINF:0,Fox movies
-http://38.99.146.36:7777/FoxMovies_HD/FoxMovies_High.m3u8?user=68158&session=8402c8336e594e0d7724acf3d6c893fea5e79d999a3525286d1674ccf677e2f8&hlsid=HLS_103752
-
-#EXTINF:0,Fox
-http://38.99.146.36:7777/Fox_HD/Fox_High.m3u8?user=67100&session=583b7fdf889638670acaa02eea2bd9489c46966cbb78a1fbee7d92813df4d451&hlsid=HLS_105437
-
 
 
 #EXTINF:-1,[COLOR yellow]»----------Drama & Movies------------««[/COLOR]
@@ -317,47 +389,20 @@ http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanf
 #EXTINF:-1,Funoon TV
 http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8?v=1269310610
 
-#EXTINF:-1,Moga Comedy
-http://38.99.146.36:7777/MogaComedy_HD/MogaComedy_High.m3u8?user=90389&session=4fcdc71ca7927e403107f9bdacee68eeb8a17c828d65ccb1fc57c3e6ce45c309&hlsid=HLS_116423
-
-#EXTINF:-1,time comedy
-http://38.99.146.36:7777/CairoComedy_HD/CairoComedy_High.m3u8?user=52738&session=b4c059a8ee374860fdb28b4f43d5579b7b72ea27b5ee6e6fbee2d1e82b4eff73&hlsid=HLS_120429
-
-#EXTINF:-1,cairo cinema
-http://38.99.146.36:7777/CairoCinema_HD/CairoCinema_HD.m3u8?user=5425&session=c4f842b605320343832866412f1a9c23a303283d728f80b1e57b9df264e8d856&hlsid=HLS_119379
-
-
-#EXTINF:0,Rotana Aflam
-http://38.99.146.36:7777/RotanaAflam_HD/RotanaAflam_High.m3u8?user=33207&session=79d4244e954f8eebbd34bcbc5f7f15be8f0a63b0d279ea583eca7aa41d45000c&hlsid=HLS_132138
-
-
-#EXTINF:0,Cima
-http://38.99.146.36:7777/Cima_HD/Cima_High.m3u8?user=86384&session=6ad3efc4d6558e608ee9d109640de62c767934299d94ca2c42a0dfee4ce21afa&hlsid=HLS_139945
-
-#EXTINF:-1,Panorama Film
-http://38.99.146.36:7777/PanoramaFilm_HD/PanoramaFilm_High.m3u8?user=16619&session=fe1d2e030a0a1f870c23021c6963e80684790a0aabe56c29942f87b0ac85c33f&hlsid=HLS_131181
-
-
-#EXTINF:-1,cairo Drama
-http://38.99.146.36:7777/CairoDrama_HD/CairoDrama_High.m3u8?user=40371&session=e84fecc36f75e601f914d1d9c2cc8cedcbc573555b811c66181b55c5bb210396&hlsid=HLS_121514
 
 
 #EXTINF:-1,Albalad Drama
 plugin://plugin.video.youtube/?action=play_video&videoid=SPHCd3iHqd0
 
 
-#EXTINF:-1,Alnahar drama
-http://38.99.146.36:7777/AlNaharDrama_HD/AlNaharDrama_High.m3u8?user=43340&session=26e6755811e84146af909e5302f8eb9fd8cea68f9bc3e7f29a76c88ce53ef4c0&hlsid=HLS_129202
-
-
 #EXTINF:-1,CBC
-plugin://plugin.video.youtube/?action=play_video&videoid=qaNVnFRkP8M
+plugin://plugin.video.youtube/?action=play_video&videoid=1yEMLzYzE1g
 
 #EXTINF:-1,CBC Extra
-plugin://plugin.video.youtube/?action=play_video&videoid=24FTGjO3ck0
+plugin://plugin.video.youtube/?action=play_video&videoid=r7ammFV2blg
 
 #EXTINF:-1,CBC Drama
-plugin://plugin.video.youtube/?action=play_video&videoid=AjyVcMRwdN0
+plugin://plugin.video.youtube/?action=play_video&videoid=uMvhnVugCjo
 
 #EXTINF:-1,Dubai Drama
 http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w7946196_b1200000.m3u8
@@ -381,51 +426,6 @@ rtmp://82.137.248.21/Drama?gmswf=1269304399/DramaLive3
 #EXTINF:-1,Al dunia
 rtmp://sama-tv.net/live/samatv
 
-#EXTINF:-1,[COLOR yellow]»--------Algeriee-------««[/COLOR]
-http://0.0.0.0:1234
-
-
-
-#EXTINF:-1,Algerie
-http://38.99.146.36:7777/CanalAlgerie_HD/CanalAlgerie_HD.m3u8?user=40295&session=ff5a1cf90fc8a0bec8c8901a0bc1e1800943ac69734fcd134a609b33e3021ead&hlsid=HLS_5459944
-
-
-#EXTINF:-1,Algerie 4
-http://37.187.254.104/origin01/amlst:tv-tamazight/chunklist_w110557435_b800000.m3u8?dar=sd&t=18ddf1b11ff0fbb24e3ecbecf4748ff821784cd760dd9e1a9ec2ae552e15361c0ff6d6c8ada2fd5151e1fe94a153608dfd6087891f21db550034a4e57f3be5911ac5589934e214a33d270fe258c016ad713140a3de5e6152b50393c07e28b6d8ca71a38f5e5fdfb5253ac7deae8892c71df2918f939b88dc1f6ae980a867e112b5f6e99443747cf2
-
-#EXTINF:-1,Lindex
-http://38.99.146.36:7777/WeladElBalad_HD/WeladElBalad_High.m3u8?user=64462&session=f8a54d394e8c09545a02ded978241bde2d109a10492cf050545542bf0eb8d0a9&hlsid=HLS_5459139
-
-
-#EXTINF:-1,Echorouk
-http://live.echoroukonline.com/live/EchoroukTV_SD/chunklist.m3u8
-
-#EXTINF:-1,watan
-http://streaming.tootvs.com:1935/8018/8018/chunklist_w2066104408.m3u8
-
-
-#EXTINF:-1,Bilad
-http://strfla13.streamakaci.com/elbilad/elbilad.stream/chunklist_w1698520685.m3u8?v=2920596208
-
-
-#EXTINF:-1,Magaribia
-
-
-#EXTINF:-1,Alnahar
-http://5.135.135.126/endz/EnnaharTV_SD/chunklist.m3u8?v=2920596208
-
-
-
-
-#EXTINF:-1,[COLOR yellow]»------------Other-------------««[/COLOR]
-http://0.0.0.0:1234
-
-
-#EXTINF:-1,LDC
-http://38.99.146.36:7777/LDC_HD/LDC_High.m3u8?user=2713&session=6eecd00d9bc06adbbd64e47948ef9507b429d9db1482041bdcbacadf5bf8eefb&hlsid=HLS_144961
-
-#EXTINF:-1,Mtv
-http://38.99.146.36:7777/MTVLebanon_HD/MTVLebanon_HD.m3u8?user=39686&session=9c8b7e0a3eae29d892e35dd1df1b77fdba2aefbd5a680d39406f1bd1eca89133&hlsid=HLS_143475
 
 
 #EXTINF:-1,Mekka
